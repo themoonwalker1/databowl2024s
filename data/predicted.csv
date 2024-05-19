@@ -1,0 +1,2688 @@
+Country,Year,Health_Expenditure_as_GDP_Percentage
+"b""Cote d'Ivoire""",2010,4.42
+"b""Cote d'Ivoire""",2012,4.43
+"b""Cote d'Ivoire""",2004,5.48
+"b""Cote d'Ivoire""",2007,4.55
+"b""Cote d'Ivoire""",2006,4.76
+"b""Cote d'Ivoire""",2003,5.48
+"b""Cote d'Ivoire""",2015,4.583899999999997
+"b""Cote d'Ivoire""",2005,5.01
+"b""Cote d'Ivoire""",2009,4.47
+"b""Cote d'Ivoire""",2013,3.72
+"b""Cote d'Ivoire""",2011,4.4
+"b""Cote d'Ivoire""",2008,4.57
+"b""Cote d'Ivoire""",2002,5.9
+"b""Cote d'Ivoire""",2014,3.73
+b'Afghanistan',2009,9.82
+b'Afghanistan',2003,8.94
+b'Afghanistan',2013,8.81
+b'Afghanistan',2005,9.95
+b'Afghanistan',2011,8.56
+b'Afghanistan',2010,8.57
+b'Afghanistan',2002,9.44
+b'Afghanistan',2007,9.9
+b'Afghanistan',2014,9.53
+b'Afghanistan',2012,7.9
+b'Afghanistan',2008,10.26
+b'Afghanistan',2015,9.107200000000013
+b'Afghanistan',2004,9.81
+b'Afghanistan',2006,10.62
+b'African Region (WHO)',2015,4.428400000000001
+b'Albania',2003,5.91
+b'Albania',2012,6.16
+b'Albania',2004,5.89
+b'Albania',2007,5.93
+b'Albania',2005,5.73
+b'Albania',2002,5.66
+b'Albania',2015,5.783299999999998
+b'Albania',2010,6.24
+b'Albania',2009,5.83
+b'Albania',2011,6.18
+b'Albania',2008,5.51
+b'Albania',2006,5.63
+b'Albania',2014,6.43
+b'Albania',2013,6.28
+b'Algeria',2002,3.73
+b'Algeria',2005,3.24
+b'Algeria',2014,6.55
+b'Algeria',2010,5.12
+b'Algeria',2008,4.2
+b'Algeria',2004,3.54
+b'Algeria',2013,6.04
+b'Algeria',2007,3.82
+b'Algeria',2009,5.36
+b'Algeria',2003,3.6
+b'Algeria',2015,4.499099999999998
+b'Algeria',2011,5.27
+b'Algeria',2006,3.36
+b'Algeria',2012,6.0
+b'American Samoa',2015,3.152200000000001
+b'Andorra',2011,7.62
+b'Andorra',2007,4.92
+b'Andorra',2004,5.29
+b'Andorra',2006,4.97
+b'Andorra',2015,5.5688000000000075
+b'Andorra',2012,6.71
+b'Andorra',2014,6.77
+b'Andorra',2008,5.67
+b'Andorra',2009,6.08
+b'Andorra',2010,7.68
+b'Andorra',2002,6.0
+b'Andorra',2013,6.8
+b'Andorra',2005,5.59
+b'Andorra',2003,5.55
+b'Angola',2009,3.84
+b'Angola',2006,2.69
+b'Angola',2011,2.65
+b'Angola',2004,3.97
+b'Angola',2007,2.97
+b'Angola',2005,2.85
+b'Angola',2008,3.32
+b'Angola',2002,3.33
+b'Angola',2013,2.73
+b'Angola',2003,3.55
+b'Angola',2010,2.7
+b'Angola',2012,2.4
+b'Angola',2015,3.2647999999999966
+b'Angola',2014,2.43
+b'Antigua and Barbuda',2011,5.44
+b'Antigua and Barbuda',2003,5.58
+b'Antigua and Barbuda',2012,5.48
+b'Antigua and Barbuda',2006,4.63
+b'Antigua and Barbuda',2010,5.38
+b'Antigua and Barbuda',2015,4.451299999999999
+b'Antigua and Barbuda',2005,4.99
+b'Antigua and Barbuda',2007,4.45
+b'Antigua and Barbuda',2004,5.12
+b'Antigua and Barbuda',2008,4.2
+b'Antigua and Barbuda',2002,5.29
+b'Antigua and Barbuda',2009,4.18
+b'Antigua and Barbuda',2013,5.51
+b'Antigua and Barbuda',2014,5.87
+b'Argentina',2012,9.83
+b'Argentina',2003,6.89
+b'Argentina',2015,8.840100000000005
+b'Argentina',2007,7.83
+b'Argentina',2013,9.78
+b'Argentina',2005,7.61
+b'Argentina',2006,7.64
+b'Argentina',2008,8.18
+b'Argentina',2004,7.23
+b'Argentina',2011,9.42
+b'Argentina',2002,7.39
+b'Argentina',2009,9.46
+b'Argentina',2014,9.67
+b'Argentina',2010,9.45
+b'Armenia',2002,7.61
+b'Armenia',2015,7.861999999999999
+b'Armenia',2009,8.44
+b'Armenia',2003,7.18
+b'Armenia',2008,6.64
+b'Armenia',2007,5.5
+b'Armenia',2013,10.32
+b'Armenia',2014,10.18
+b'Armenia',2010,9.24
+b'Armenia',2004,6.06
+b'Armenia',2012,9.13
+b'Armenia',2006,5.85
+b'Armenia',2005,5.86
+b'Armenia',2011,9.38
+b'Australia',2011,8.54
+b'Australia',2004,8.09
+b'Australia',2006,7.98
+b'Australia',2012,8.67
+b'Australia',2009,8.54
+b'Australia',2003,7.88
+b'Australia',2007,8.05
+b'Australia',2010,8.42
+b'Australia',2002,7.88
+b'Australia',2015,8.4751
+b'Australia',2005,7.97
+b'Australia',2013,8.75
+b'Australia',2014,9.83
+b'Australia',2008,8.25
+b'Austria',2002,9.39
+b'Austria',2012,10.2
+b'Austria',2007,9.53
+b'Austria',2015,10.130300000000009
+b'Austria',2008,9.73
+b'Austria',2006,9.53
+b'Austria',2013,10.29
+b'Austria',2003,9.55
+b'Austria',2005,9.63
+b'Austria',2009,10.23
+b'Austria',2010,10.22
+b'Austria',2004,9.71
+b'Austria',2014,10.37
+b'Austria',2011,10.03
+b'Azerbaijan',2003,2.73
+b'Azerbaijan',2009,2.77
+b'Azerbaijan',2006,2.07
+b'Azerbaijan',2008,2.05
+b'Azerbaijan',2010,2.65
+b'Azerbaijan',2012,3.16
+b'Azerbaijan',2011,2.6
+b'Azerbaijan',2015,2.386500000000001
+b'Azerbaijan',2005,2.23
+b'Azerbaijan',2013,3.23
+b'Azerbaijan',2002,2.73
+b'Azerbaijan',2007,1.99
+b'Azerbaijan',2014,3.59
+b'Azerbaijan',2004,2.66
+b'Bahamas',2002,3.81
+b'Bahamas',2008,4.86
+b'Bahamas',2005,4.03
+b'Bahamas',2011,5.32
+b'Bahamas',2009,5.15
+b'Bahamas',2003,4.02
+b'Bahamas',2007,4.5
+b'Bahamas',2014,5.54
+b'Bahamas',2010,5.26
+b'Bahamas',2012,5.32
+b'Bahamas',2015,4.717400000000001
+b'Bahamas',2004,4.05
+b'Bahamas',2006,4.31
+b'Bahamas',2013,5.59
+b'Bahrain',2012,4.11
+b'Bahrain',2003,3.89
+b'Bahrain',2013,4.31
+b'Bahrain',2006,3.11
+b'Bahrain',2014,4.41
+b'Bahrain',2005,3.26
+b'Bahrain',2008,3.2
+b'Bahrain',2007,3.3
+b'Bahrain',2009,4.33
+b'Bahrain',2002,3.68
+b'Bahrain',2015,3.6662999999999992
+b'Bahrain',2010,4.09
+b'Bahrain',2011,3.87
+b'Bahrain',2004,3.5
+b'Bangladesh',2004,2.0
+b'Bangladesh',2010,2.29
+b'Bangladesh',2013,2.3
+b'Bangladesh',2006,2.11
+b'Bangladesh',2003,1.96
+b'Bangladesh',2012,2.35
+b'Bangladesh',2005,2.06
+b'Bangladesh',2002,1.93
+b'Bangladesh',2014,2.28
+b'Bangladesh',2011,2.36
+b'Bangladesh',2007,2.17
+b'Bangladesh',2009,2.18
+b'Bangladesh',2015,2.181800000000003
+b'Bangladesh',2008,2.12
+b'Barbados',2012,7.78
+b'Barbados',2006,6.58
+b'Barbados',2011,6.9
+b'Barbados',2005,6.78
+b'Barbados',2007,6.06
+b'Barbados',2009,7.15
+b'Barbados',2003,6.69
+b'Barbados',2013,7.4
+b'Barbados',2010,6.77
+b'Barbados',2015,6.459099999999999
+b'Barbados',2002,5.86
+b'Barbados',2008,6.48
+b'Barbados',2004,7.31
+b'Barbados',2014,6.97
+b'Belarus',2015,5.356400000000001
+b'Belarus',2003,5.77
+b'Belarus',2011,4.87
+b'Belarus',2014,5.39
+b'Belarus',2012,5.25
+b'Belarus',2004,5.74
+b'Belarus',2002,5.62
+b'Belarus',2010,5.66
+b'Belarus',2009,5.39
+b'Belarus',2007,5.69
+b'Belarus',2006,5.57
+b'Belarus',2005,6.07
+b'Belarus',2013,5.7
+b'Belarus',2008,5.29
+b'Belgium',2010,10.2
+b'Belgium',2009,10.32
+b'Belgium',2005,9.22
+b'Belgium',2003,9.16
+b'Belgium',2006,9.13
+b'Belgium',2012,10.5
+b'Belgium',2013,10.58
+b'Belgium',2002,8.32
+b'Belgium',2014,10.61
+b'Belgium',2004,9.33
+b'Belgium',2007,9.14
+b'Belgium',2008,9.6
+b'Belgium',2011,10.36
+b'Belgium',2015,9.945400000000003
+b'Belize',2003,3.56
+b'Belize',2009,4.53
+b'Belize',2010,4.5
+b'Belize',2014,4.88
+b'Belize',2015,4.590799999999998
+b'Belize',2013,4.44
+b'Belize',2004,3.45
+b'Belize',2005,3.47
+b'Belize',2008,4.54
+b'Belize',2006,3.57
+b'Belize',2011,4.55
+b'Belize',2012,4.36
+b'Belize',2007,4.08
+b'Belize',2002,3.59
+b'Benin',2009,2.89
+b'Benin',2002,3.1
+b'Benin',2006,3.29
+b'Benin',2005,3.22
+b'Benin',2013,2.87
+b'Benin',2014,2.69
+b'Benin',2012,3.08
+b'Benin',2003,3.12
+b'Benin',2007,2.94
+b'Benin',2010,3.01
+b'Benin',2011,3.0
+b'Benin',2015,3.0764999999999962
+b'Benin',2004,3.23
+b'Benin',2008,2.65
+b'Bermuda',2015,6.024400000000003
+b'Bhutan',2009,3.55
+b'Bhutan',2010,3.56
+b'Bhutan',2003,4.13
+b'Bhutan',2008,3.38
+b'Bhutan',2012,3.62
+b'Bhutan',2014,3.56
+b'Bhutan',2013,3.71
+b'Bhutan',2007,4.13
+b'Bhutan',2004,4.6
+b'Bhutan',2011,3.35
+b'Bhutan',2005,4.13
+b'Bhutan',2006,4.41
+b'Bhutan',2015,3.7209000000000003
+b'Bhutan',2002,4.6
+b'Bolivia',2003,5.2
+b'Bolivia',2013,5.57
+b'Bolivia',2004,4.86
+b'Bolivia',2011,5.17
+b'Bolivia',2008,4.61
+b'Bolivia',2009,5.17
+b'Bolivia',2015,4.9702
+b'Bolivia',2006,4.66
+b'Bolivia',2014,5.9
+b'Bolivia',2012,5.25
+b'Bolivia',2002,4.9
+b'Bolivia',2010,5.2
+b'Bolivia',2005,5.07
+b'Bolivia',2007,4.7
+b'Bosnia and Herzegovina',2002,7.43
+b'Bosnia and Herzegovina',2013,9.45
+b'Bosnia and Herzegovina',2010,9.02
+b'Bosnia and Herzegovina',2008,9.69
+b'Bosnia and Herzegovina',2014,9.49
+b'Bosnia and Herzegovina',2005,9.05
+b'Bosnia and Herzegovina',2011,9.18
+b'Bosnia and Herzegovina',2004,9.06
+b'Bosnia and Herzegovina',2009,9.02
+b'Bosnia and Herzegovina',2015,9.443300000000006
+b'Bosnia and Herzegovina',2003,8.31
+b'Bosnia and Herzegovina',2006,9.17
+b'Bosnia and Herzegovina',2007,9.53
+b'Bosnia and Herzegovina',2012,9.49
+b'Botswana',2003,6.41
+b'Botswana',2010,6.27
+b'Botswana',2002,6.67
+b'Botswana',2006,4.88
+b'Botswana',2014,5.88
+b'Botswana',2013,6.5
+b'Botswana',2009,6.62
+b'Botswana',2015,6.4456000000000016
+b'Botswana',2005,5.27
+b'Botswana',2011,5.87
+b'Botswana',2007,5.52
+b'Botswana',2008,5.9
+b'Botswana',2012,6.35
+b'Botswana',2004,6.09
+b'Brazil',2003,8.19
+b'Brazil',2011,7.79
+b'Brazil',2002,8.7
+b'Brazil',2004,8.12
+b'Brazil',2013,7.98
+b'Brazil',2014,8.4
+b'Brazil',2010,7.95
+b'Brazil',2007,8.2
+b'Brazil',2005,8.04
+b'Brazil',2006,8.25
+b'Brazil',2009,8.39
+b'Brazil',2015,8.011500000000009
+b'Brazil',2008,8.01
+b'Brazil',2012,7.74
+b'Brunei',2014,1.91
+b'Brunei',2004,2.55
+b'Brunei',2003,2.6
+b'Brunei',2007,1.94
+b'Brunei',2013,1.9
+b'Brunei',2011,1.86
+b'Brunei',2005,2.23
+b'Brunei',2012,1.85
+b'Brunei',2002,2.53
+b'Brunei',2010,2.28
+b'Brunei',2015,2.034599999999997
+b'Brunei',2009,2.39
+b'Brunei',2006,1.91
+b'Brunei',2008,1.88
+b'Bulgaria',2003,7.2
+b'Bulgaria',2011,7.1
+b'Bulgaria',2009,6.6
+b'Bulgaria',2004,6.89
+b'Bulgaria',2010,7.1
+b'Bulgaria',2015,6.393799999999998
+b'Bulgaria',2002,7.08
+b'Bulgaria',2008,6.28
+b'Bulgaria',2007,6.16
+b'Bulgaria',2014,7.68
+b'Bulgaria',2013,7.14
+b'Bulgaria',2012,7.54
+b'Bulgaria',2005,6.89
+b'Bulgaria',2006,6.53
+b'Burkina Faso',2003,3.14
+b'Burkina Faso',2014,5.0
+b'Burkina Faso',2015,4.881299999999996
+b'Burkina Faso',2006,4.51
+b'Burkina Faso',2008,4.65
+b'Burkina Faso',2011,4.65
+b'Burkina Faso',2009,5.08
+b'Burkina Faso',2005,3.95
+b'Burkina Faso',2010,5.24
+b'Burkina Faso',2007,5.23
+b'Burkina Faso',2004,4.22
+b'Burkina Faso',2002,2.97
+b'Burkina Faso',2012,4.6
+b'Burkina Faso',2013,5.56
+b'Burundi',2015,9.095899999999995
+b'Burundi',2005,7.56
+b'Burundi',2010,11.28
+b'Burundi',2013,8.63
+b'Burundi',2002,5.35
+b'Burundi',2014,7.21
+b'Burundi',2012,8.64
+b'Burundi',2003,5.27
+b'Burundi',2007,9.19
+b'Burundi',2009,9.23
+b'Burundi',2008,7.74
+b'Burundi',2011,10.07
+b'Burundi',2004,7.1
+b'Burundi',2006,8.71
+b'Cambodia',2006,6.12
+b'Cambodia',2012,7.26
+b'Cambodia',2008,6.6
+b'Cambodia',2005,6.85
+b'Cambodia',2011,7.5
+b'Cambodia',2007,4.91
+b'Cambodia',2014,6.7
+b'Cambodia',2010,6.91
+b'Cambodia',2009,7.58
+b'Cambodia',2013,7.1
+b'Cambodia',2015,6.360000000000006
+b'Cambodia',2004,7.08
+b'Cambodia',2003,6.94
+b'Cambodia',2002,7.23
+b'Cameroon',2011,3.85
+b'Cameroon',2012,3.93
+b'Cameroon',2008,3.66
+b'Cameroon',2006,3.74
+b'Cameroon',2015,3.746000000000003
+b'Cameroon',2004,3.73
+b'Cameroon',2014,3.79
+b'Cameroon',2003,3.9
+b'Cameroon',2010,3.58
+b'Cameroon',2007,3.71
+b'Cameroon',2009,3.5
+b'Cameroon',2005,3.77
+b'Cameroon',2002,4.03
+b'Cameroon',2013,3.63
+b'Canada',2015,10.086100000000005
+b'Canada',2008,9.61
+b'Canada',2005,9.04
+b'Canada',2002,8.86
+b'Canada',2003,9.01
+b'Canada',2009,10.66
+b'Canada',2014,10.26
+b'Canada',2011,10.38
+b'Canada',2012,10.51
+b'Canada',2006,9.34
+b'Canada',2007,9.45
+b'Canada',2013,10.41
+b'Canada',2010,10.68
+b'Canada',2004,9.07
+b'Cape Verde',2009,3.88
+b'Cape Verde',2013,5.29
+b'Cape Verde',2004,4.38
+b'Cape Verde',2007,4.19
+b'Cape Verde',2003,4.5
+b'Cape Verde',2015,4.137599999999998
+b'Cape Verde',2010,4.48
+b'Cape Verde',2008,3.58
+b'Cape Verde',2002,4.76
+b'Cape Verde',2006,4.49
+b'Cape Verde',2014,5.33
+b'Cape Verde',2005,4.27
+b'Cape Verde',2012,5.13
+b'Cape Verde',2011,4.31
+b'Central African Republic',2009,4.82
+b'Central African Republic',2011,3.68
+b'Central African Republic',2002,4.23
+b'Central African Republic',2015,4.454799999999994
+b'Central African Republic',2013,4.77
+b'Central African Republic',2014,4.57
+b'Central African Republic',2004,4.3
+b'Central African Republic',2012,3.92
+b'Central African Republic',2010,3.57
+b'Central African Republic',2007,4.72
+b'Central African Republic',2008,4.09
+b'Central African Republic',2005,4.37
+b'Central African Republic',2006,4.44
+b'Central African Republic',2003,4.4
+b'Chad',2007,4.34
+b'Chad',2013,4.07
+b'Chad',2008,4.06
+b'Chad',2002,7.27
+b'Chad',2015,4.3932
+b'Chad',2006,4.87
+b'Chad',2014,4.27
+b'Chad',2012,3.86
+b'Chad',2010,4.06
+b'Chad',2003,5.51
+b'Chad',2004,5.5
+b'Chad',2005,4.84
+b'Chad',2011,3.91
+b'Chad',2009,4.44
+b'Chile',2009,7.25
+b'Chile',2003,7.25
+b'Chile',2006,6.07
+b'Chile',2002,7.21
+b'Chile',2011,6.8
+b'Chile',2010,6.82
+b'Chile',2012,7.02
+b'Chile',2013,7.48
+b'Chile',2005,6.62
+b'Chile',2007,6.21
+b'Chile',2015,6.704100000000007
+b'Chile',2014,7.84
+b'Chile',2004,6.91
+b'Chile',2008,6.74
+b'China',2004,4.29
+b'China',2011,4.34
+b'China',2007,3.67
+b'China',2002,4.38
+b'China',2003,4.42
+b'China',2012,4.57
+b'China',2014,4.78
+b'China',2008,3.9
+b'China',2010,4.23
+b'China',2006,3.95
+b'China',2015,3.9263999999999957
+b'China',2009,4.35
+b'China',2013,4.71
+b'China',2005,4.18
+b'Colombia',2006,6.34
+b'Colombia',2011,6.78
+b'Colombia',2008,6.84
+b'Colombia',2007,6.49
+b'Colombia',2009,7.31
+b'Colombia',2004,5.8
+b'Colombia',2012,6.75
+b'Colombia',2005,6.07
+b'Colombia',2013,7.02
+b'Colombia',2003,5.78
+b'Colombia',2015,6.601
+b'Colombia',2010,7.07
+b'Colombia',2002,5.73
+b'Colombia',2014,7.19
+b'Comoros',2004,6.58
+b'Comoros',2007,5.42
+b'Comoros',2014,5.24
+b'Comoros',2015,5.125300000000001
+b'Comoros',2005,6.13
+b'Comoros',2013,5.1
+b'Comoros',2009,4.93
+b'Comoros',2008,5.07
+b'Comoros',2011,5.3
+b'Comoros',2003,6.65
+b'Comoros',2002,6.68
+b'Comoros',2012,5.17
+b'Comoros',2006,5.77
+b'Comoros',2010,4.99
+b'Congo',2012,1.91
+b'Congo',2005,1.72
+b'Congo',2002,1.7
+b'Congo',2006,1.71
+b'Congo',2013,1.94
+b'Congo',2007,1.9
+b'Congo',2015,2.3352000000000004
+b'Congo',2008,2.24
+b'Congo',2004,1.92
+b'Congo',2003,1.92
+b'Congo',2014,1.97
+b'Congo',2010,1.85
+b'Congo',2009,2.14
+b'Congo',2011,1.75
+b'Cook Islands',2015,3.548200000000003
+b'Cook Islands',2010,3.63
+b'Cook Islands',2014,3.29
+b'Cook Islands',2005,3.91
+b'Cook Islands',2012,3.11
+b'Cook Islands',2013,3.29
+b'Cook Islands',2009,3.47
+b'Cook Islands',2011,3.52
+b'Cook Islands',2007,3.72
+b'Cook Islands',2006,3.47
+b'Cook Islands',2008,3.43
+b'Cook Islands',2004,3.41
+b'Cook Islands',2002,3.44
+b'Cook Islands',2003,3.2
+b'Costa Rica',2013,7.68
+b'Costa Rica',2014,7.66
+b'Costa Rica',2008,7.47
+b'Costa Rica',2005,6.66
+b'Costa Rica',2011,8.12
+b'Costa Rica',2003,6.97
+b'Costa Rica',2015,7.249600000000012
+b'Costa Rica',2006,6.94
+b'Costa Rica',2010,8.03
+b'Costa Rica',2007,7.0
+b'Costa Rica',2002,6.87
+b'Costa Rica',2004,6.63
+b'Costa Rica',2009,7.86
+b'Costa Rica',2012,7.79
+b'Croatia',2008,7.65
+b'Croatia',2011,7.66
+b'Croatia',2006,6.91
+b'Croatia',2004,6.5
+b'Croatia',2013,6.43
+b'Croatia',2005,6.84
+b'Croatia',2002,6.14
+b'Croatia',2012,7.68
+b'Croatia',2009,8.08
+b'Croatia',2003,6.3
+b'Croatia',2014,6.61
+b'Croatia',2010,7.99
+b'Croatia',2015,7.680799999999993
+b'Croatia',2007,7.41
+b'Cuba',2003,7.1
+b'Cuba',2015,10.024399999999996
+b'Cuba',2009,12.29
+b'Cuba',2004,6.83
+b'Cuba',2014,12.14
+b'Cuba',2008,11.31
+b'Cuba',2011,11.31
+b'Cuba',2002,7.11
+b'Cuba',2006,8.27
+b'Cuba',2013,10.43
+b'Cuba',2012,9.3
+b'Cuba',2007,10.97
+b'Cuba',2010,10.69
+b'Cuba',2005,8.76
+b'Cyprus',2011,6.43
+b'Cyprus',2008,6.01
+b'Cyprus',2012,6.54
+b'Cyprus',2009,6.47
+b'Cyprus',2010,6.5
+b'Cyprus',2014,6.93
+b'Cyprus',2013,6.93
+b'Cyprus',2003,5.64
+b'Cyprus',2004,5.41
+b'Cyprus',2006,5.46
+b'Cyprus',2002,5.62
+b'Cyprus',2015,6.441900000000004
+b'Cyprus',2005,5.44
+b'Cyprus',2007,5.36
+b'Czechia',2003,6.52
+b'Czechia',2013,7.52
+b'Czechia',2011,7.56
+b'Czechia',2002,6.18
+b'Czechia',2010,7.59
+b'Czechia',2006,6.16
+b'Czechia',2015,7.0242
+b'Czechia',2005,6.34
+b'Czechia',2008,6.33
+b'Czechia',2009,7.25
+b'Czechia',2004,6.35
+b'Czechia',2014,7.61
+b'Czechia',2007,5.99
+b'Czechia',2012,7.62
+b'Democratic Republic of Congo',2007,3.89
+b'Democratic Republic of Congo',2009,4.51
+b'Democratic Republic of Congo',2005,3.99
+b'Democratic Republic of Congo',2011,3.19
+b'Democratic Republic of Congo',2004,4.34
+b'Democratic Republic of Congo',2008,4.31
+b'Democratic Republic of Congo',2002,2.57
+b'Democratic Republic of Congo',2010,3.72
+b'Democratic Republic of Congo',2013,3.34
+b'Democratic Republic of Congo',2003,3.73
+b'Democratic Republic of Congo',2014,3.73
+b'Democratic Republic of Congo',2015,3.8240000000000034
+b'Democratic Republic of Congo',2006,4.06
+b'Democratic Republic of Congo',2012,3.22
+b'Denmark',2008,9.51
+b'Denmark',2014,10.31
+b'Denmark',2004,9.01
+b'Denmark',2003,8.9
+b'Denmark',2015,10.177299999999995
+b'Denmark',2012,10.52
+b'Denmark',2010,10.61
+b'Denmark',2011,10.41
+b'Denmark',2006,9.17
+b'Denmark',2002,8.7
+b'Denmark',2009,10.67
+b'Denmark',2007,9.33
+b'Denmark',2013,10.33
+b'Denmark',2005,9.09
+b'Djibouti',2015,3.8293000000000017
+b'Djibouti',2004,3.54
+b'Djibouti',2013,2.92
+b'Djibouti',2014,2.97
+b'Djibouti',2011,3.38
+b'Djibouti',2007,4.06
+b'Djibouti',2003,4.27
+b'Djibouti',2002,3.76
+b'Djibouti',2012,3.3
+b'Djibouti',2010,3.36
+b'Djibouti',2006,4.22
+b'Djibouti',2008,3.62
+b'Djibouti',2005,3.81
+b'Djibouti',2009,3.64
+b'Dominica',2004,4.75
+b'Dominica',2015,5.087700000000008
+b'Dominica',2014,5.26
+b'Dominica',2009,4.98
+b'Dominica',2011,5.33
+b'Dominica',2006,4.78
+b'Dominica',2007,4.79
+b'Dominica',2013,5.35
+b'Dominica',2008,5.05
+b'Dominica',2010,5.16
+b'Dominica',2003,4.85
+b'Dominica',2005,4.98
+b'Dominica',2002,4.65
+b'Dominica',2012,5.8
+b'Dominican Republic',2005,4.35
+b'Dominican Republic',2013,4.92
+b'Dominican Republic',2003,4.39
+b'Dominican Republic',2004,4.29
+b'Dominican Republic',2014,4.8
+b'Dominican Republic',2007,4.09
+b'Dominican Republic',2006,3.99
+b'Dominican Republic',2012,5.05
+b'Dominican Republic',2009,4.76
+b'Dominican Republic',2010,4.92
+b'Dominican Republic',2015,4.910400000000003
+b'Dominican Republic',2011,5.04
+b'Dominican Republic',2008,4.56
+b'Dominican Republic',2002,4.99
+b'East Asia & Pacific (WB)',2015,4.428400000000001
+b'East Timor',2006,6.0
+b'East Timor',2004,4.26
+b'East Timor',2003,2.84
+b'East Timor',2010,6.47
+b'East Timor',2012,6.99
+b'East Timor',2005,5.28
+b'East Timor',2011,6.87
+b'East Timor',2014,7.6
+b'East Timor',2015,6.178000000000009
+b'East Timor',2008,6.97
+b'East Timor',2013,8.53
+b'East Timor',2007,5.65
+b'East Timor',2009,7.31
+b'Eastern Mediterranean Region (WHO)',2015,4.428400000000001
+b'Ecuador',2006,5.71
+b'Ecuador',2002,4.48
+b'Ecuador',2008,5.47
+b'Ecuador',2012,6.86
+b'Ecuador',2015,5.7914000000000065
+b'Ecuador',2011,6.58
+b'Ecuador',2007,5.43
+b'Ecuador',2009,5.8
+b'Ecuador',2014,6.83
+b'Ecuador',2010,6.22
+b'Ecuador',2013,6.88
+b'Ecuador',2005,5.6
+b'Ecuador',2004,5.57
+b'Ecuador',2003,5.44
+b'Egypt',2013,4.67
+b'Egypt',2003,5.22
+b'Egypt',2004,4.86
+b'Egypt',2014,4.77
+b'Egypt',2007,4.44
+b'Egypt',2010,4.15
+b'Egypt',2005,4.92
+b'Egypt',2012,4.46
+b'Egypt',2011,4.36
+b'Egypt',2015,4.345599999999996
+b'Egypt',2009,4.38
+b'Egypt',2002,5.51
+b'Egypt',2006,4.84
+b'Egypt',2008,4.47
+b'El Salvador',2009,8.84
+b'El Salvador',2003,7.77
+b'El Salvador',2011,8.88
+b'El Salvador',2005,9.2
+b'El Salvador',2014,8.6
+b'El Salvador',2006,8.69
+b'El Salvador',2008,8.5
+b'El Salvador',2012,8.61
+b'El Salvador',2015,8.209400000000002
+b'El Salvador',2002,7.89
+b'El Salvador',2004,8.13
+b'El Salvador',2010,8.9
+b'El Salvador',2013,9.05
+b'El Salvador',2007,8.48
+b'England',2015,4.428400000000001
+b'Equatorial Guinea',2003,1.83
+b'Equatorial Guinea',2007,1.3
+b'Equatorial Guinea',2008,1.12
+b'Equatorial Guinea',2014,1.75
+b'Equatorial Guinea',2005,1.3
+b'Equatorial Guinea',2010,1.62
+b'Equatorial Guinea',2004,1.45
+b'Equatorial Guinea',2006,1.29
+b'Equatorial Guinea',2015,1.603500000000001
+b'Equatorial Guinea',2012,1.51
+b'Equatorial Guinea',2013,1.64
+b'Equatorial Guinea',2009,1.77
+b'Equatorial Guinea',2002,2.75
+b'Equatorial Guinea',2011,1.43
+b'Eritrea',2006,6.86
+b'Eritrea',2008,6.42
+b'Eritrea',2003,7.34
+b'Eritrea',2009,5.39
+b'Eritrea',2013,4.97
+b'Eritrea',2011,5.17
+b'Eritrea',2007,5.28
+b'Eritrea',2012,3.74
+b'Eritrea',2004,7.01
+b'Eritrea',2014,4.03
+b'Eritrea',2010,4.84
+b'Eritrea',2015,5.118
+b'Eritrea',2005,6.86
+b'Eritrea',2002,6.69
+b'Estonia',2006,4.97
+b'Estonia',2005,5.3
+b'Estonia',2011,6.08
+b'Estonia',2015,6.031399999999998
+b'Estonia',2002,4.7
+b'Estonia',2007,5.18
+b'Estonia',2012,6.1
+b'Estonia',2003,5.14
+b'Estonia',2004,5.34
+b'Estonia',2008,5.96
+b'Estonia',2010,6.59
+b'Estonia',2013,6.28
+b'Estonia',2014,6.36
+b'Estonia',2009,6.84
+b'Eswatini',2003,6.38
+b'Eswatini',2008,8.86
+b'Eswatini',2012,7.82
+b'Eswatini',2011,8.47
+b'Eswatini',2006,7.83
+b'Eswatini',2014,7.26
+b'Eswatini',2002,5.52
+b'Eswatini',2007,7.93
+b'Eswatini',2015,8.308800000000002
+b'Eswatini',2005,7.38
+b'Eswatini',2013,7.46
+b'Eswatini',2004,6.81
+b'Eswatini',2010,8.59
+b'Eswatini',2009,8.63
+b'Ethiopia',2013,4.08
+b'Ethiopia',2015,4.571300000000002
+b'Ethiopia',2014,4.03
+b'Ethiopia',2011,4.47
+b'Ethiopia',2006,4.46
+b'Ethiopia',2007,5.0
+b'Ethiopia',2012,4.54
+b'Ethiopia',2002,4.71
+b'Ethiopia',2009,4.65
+b'Ethiopia',2004,4.31
+b'Ethiopia',2010,5.47
+b'Ethiopia',2005,4.1
+b'Ethiopia',2003,4.9
+b'Ethiopia',2008,4.28
+b'Europe & Central Asia (WB)',2015,4.428400000000001
+b'European Region (WHO)',2015,4.428400000000001
+b'Fiji',2009,3.54
+b'Fiji',2014,3.37
+b'Fiji',2005,3.26
+b'Fiji',2007,3.42
+b'Fiji',2011,3.14
+b'Fiji',2002,2.98
+b'Fiji',2003,2.97
+b'Fiji',2010,3.42
+b'Fiji',2004,3.26
+b'Fiji',2008,3.18
+b'Fiji',2012,3.27
+b'Fiji',2006,3.35
+b'Fiji',2013,3.2
+b'Fiji',2015,3.4138000000000015
+b'Finland',2014,9.78
+b'Finland',2008,8.34
+b'Finland',2013,9.81
+b'Finland',2006,8.28
+b'Finland',2004,8.06
+b'Finland',2009,9.16
+b'Finland',2015,9.305999999999997
+b'Finland',2010,9.14
+b'Finland',2003,7.94
+b'Finland',2007,8.08
+b'Finland',2002,7.63
+b'Finland',2011,9.22
+b'Finland',2005,8.29
+b'Finland',2012,9.59
+b'France',2006,10.39
+b'France',2010,11.23
+b'France',2002,10.02
+b'France',2011,11.18
+b'France',2013,11.4
+b'France',2012,11.3
+b'France',2009,11.29
+b'France',2007,10.32
+b'France',2015,10.999099999999993
+b'France',2004,10.16
+b'France',2003,10.08
+b'France',2008,10.5
+b'France',2014,11.54
+b'France',2005,10.21
+b'G20',2015,4.428400000000001
+b'Gabon',2007,3.16
+b'Gabon',2003,3.53
+b'Gabon',2009,3.84
+b'Gabon',2014,2.53
+b'Gabon',2012,2.42
+b'Gabon',2005,2.93
+b'Gabon',2015,2.978200000000001
+b'Gabon',2008,2.79
+b'Gabon',2013,2.84
+b'Gabon',2006,3.14
+b'Gabon',2004,3.33
+b'Gabon',2010,2.48
+b'Gabon',2002,3.32
+b'Gabon',2011,2.56
+b'Gambia',2006,5.44
+b'Gambia',2009,4.46
+b'Gambia',2004,5.42
+b'Gambia',2003,5.33
+b'Gambia',2013,3.91
+b'Gambia',2008,4.66
+b'Gambia',2005,5.39
+b'Gambia',2015,4.3236000000000026
+b'Gambia',2002,6.28
+b'Gambia',2012,4.27
+b'Gambia',2007,4.96
+b'Gambia',2014,3.05
+b'Gambia',2011,4.37
+b'Gambia',2010,4.12
+b'Georgia',2002,7.81
+b'Georgia',2008,8.44
+b'Georgia',2003,8.03
+b'Georgia',2012,8.05
+b'Georgia',2004,8.09
+b'Georgia',2010,9.07
+b'Georgia',2005,8.08
+b'Georgia',2007,7.44
+b'Georgia',2015,8.668500000000016
+b'Georgia',2014,7.9
+b'Georgia',2011,8.01
+b'Georgia',2009,9.57
+b'Georgia',2006,7.63
+b'Georgia',2013,7.88
+b'Germany',2007,10.05
+b'Germany',2014,11.03
+b'Germany',2004,10.15
+b'Germany',2010,11.1
+b'Germany',2013,11.0
+b'Germany',2005,10.31
+b'Germany',2015,10.702199999999998
+b'Germany',2011,10.78
+b'Germany',2003,10.4
+b'Germany',2009,11.24
+b'Germany',2006,10.18
+b'Germany',2008,10.25
+b'Germany',2012,10.85
+b'Germany',2002,10.18
+b'Ghana',2007,3.8
+b'Ghana',2005,3.63
+b'Ghana',2014,4.02
+b'Ghana',2013,4.59
+b'Ghana',2010,4.22
+b'Ghana',2015,4.185000000000001
+b'Ghana',2004,2.76
+b'Ghana',2012,4.01
+b'Ghana',2008,3.88
+b'Ghana',2002,2.89
+b'Ghana',2009,4.38
+b'Ghana',2006,3.67
+b'Ghana',2011,4.69
+b'Ghana',2003,2.83
+b'Greece',2004,8.09
+b'Greece',2013,8.44
+b'Greece',2012,8.92
+b'Greece',2014,7.89
+b'Greece',2009,9.41
+b'Greece',2007,8.4
+b'Greece',2015,8.963400000000005
+b'Greece',2010,9.6
+b'Greece',2011,9.19
+b'Greece',2008,8.83
+b'Greece',2005,8.56
+b'Greece',2002,8.23
+b'Greece',2006,8.26
+b'Greece',2003,8.45
+b'Greenland',2015,2.994299999999998
+b'Grenada',2004,5.37
+b'Grenada',2002,6.18
+b'Grenada',2005,5.14
+b'Grenada',2013,5.63
+b'Grenada',2010,5.42
+b'Grenada',2006,5.11
+b'Grenada',2015,5.423499999999995
+b'Grenada',2009,5.43
+b'Grenada',2007,5.24
+b'Grenada',2012,5.82
+b'Grenada',2011,5.8
+b'Grenada',2014,4.77
+b'Grenada',2003,5.28
+b'Grenada',2008,5.39
+b'Guam',2015,4.751800000000001
+b'Guatemala',2005,6.15
+b'Guatemala',2014,5.89
+b'Guatemala',2009,6.34
+b'Guatemala',2006,6.36
+b'Guatemala',2010,6.12
+b'Guatemala',2015,6.135700000000001
+b'Guatemala',2011,5.96
+b'Guatemala',2003,6.15
+b'Guatemala',2008,6.08
+b'Guatemala',2004,6.26
+b'Guatemala',2012,6.07
+b'Guatemala',2007,6.19
+b'Guatemala',2013,5.77
+b'Guatemala',2002,6.01
+b'Guinea',2003,4.78
+b'Guinea',2005,4.05
+b'Guinea',2013,3.46
+b'Guinea',2015,3.7298000000000013
+b'Guinea',2006,3.62
+b'Guinea',2002,5.36
+b'Guinea',2004,4.78
+b'Guinea',2011,3.79
+b'Guinea',2007,3.47
+b'Guinea',2014,4.79
+b'Guinea',2012,3.5
+b'Guinea',2008,3.27
+b'Guinea',2009,3.58
+b'Guinea',2010,3.43
+b'Guinea-Bissau',2004,4.28
+b'Guinea-Bissau',2007,5.04
+b'Guinea-Bissau',2009,4.73
+b'Guinea-Bissau',2003,3.53
+b'Guinea-Bissau',2012,5.94
+b'Guinea-Bissau',2008,5.46
+b'Guinea-Bissau',2011,6.22
+b'Guinea-Bissau',2015,5.269399999999996
+b'Guinea-Bissau',2010,5.27
+b'Guinea-Bissau',2002,3.97
+b'Guinea-Bissau',2014,9.97
+b'Guinea-Bissau',2005,4.55
+b'Guinea-Bissau',2006,5.08
+b'Guinea-Bissau',2013,7.04
+b'Guyana',2015,4.223400000000002
+b'Guyana',2012,3.71
+b'Guyana',2004,3.44
+b'Guyana',2010,4.22
+b'Guyana',2005,3.79
+b'Guyana',2003,3.27
+b'Guyana',2007,4.28
+b'Guyana',2014,3.95
+b'Guyana',2002,3.19
+b'Guyana',2013,3.8
+b'Guyana',2009,4.35
+b'Guyana',2011,4.17
+b'Guyana',2006,3.93
+b'Guyana',2008,4.2
+b'Haiti',2002,3.43
+b'Haiti',2013,4.11
+b'Haiti',2003,3.54
+b'Haiti',2006,3.48
+b'Haiti',2010,4.55
+b'Haiti',2009,3.5
+b'Haiti',2005,3.31
+b'Haiti',2008,3.76
+b'Haiti',2011,5.91
+b'Haiti',2012,5.56
+b'Haiti',2014,4.52
+b'Haiti',2015,3.8063
+b'Haiti',2007,3.65
+b'Haiti',2004,3.43
+b'High Income (WB)',2015,4.428400000000001
+b'Honduras',2005,7.5
+b'Honduras',2007,8.08
+b'Honduras',2003,6.89
+b'Honduras',2009,9.0
+b'Honduras',2014,7.91
+b'Honduras',2008,8.6
+b'Honduras',2006,7.86
+b'Honduras',2015,8.677500000000004
+b'Honduras',2002,6.24
+b'Honduras',2011,8.79
+b'Honduras',2010,8.73
+b'Honduras',2012,8.66
+b'Honduras',2013,8.48
+b'Honduras',2004,6.85
+b'Hungary',2015,7.303800000000007
+b'Hungary',2004,7.76
+b'Hungary',2008,7.09
+b'Hungary',2012,7.41
+b'Hungary',2013,7.23
+b'Hungary',2010,7.45
+b'Hungary',2006,7.78
+b'Hungary',2002,7.12
+b'Hungary',2005,7.98
+b'Hungary',2003,8.12
+b'Hungary',2009,7.22
+b'Hungary',2014,7.05
+b'Hungary',2007,7.2
+b'Hungary',2011,7.48
+b'Iceland',2012,8.18
+b'Iceland',2013,8.18
+b'Iceland',2015,8.475900000000001
+b'Iceland',2008,8.34
+b'Iceland',2003,9.73
+b'Iceland',2011,8.2
+b'Iceland',2004,9.33
+b'Iceland',2009,8.78
+b'Iceland',2002,9.4
+b'Iceland',2007,8.35
+b'Iceland',2014,8.23
+b'Iceland',2010,8.36
+b'Iceland',2005,8.95
+b'Iceland',2006,8.56
+b'India',2002,4.24
+b'India',2011,3.25
+b'India',2010,3.27
+b'India',2009,3.49
+b'India',2015,3.445
+b'India',2008,3.51
+b'India',2004,3.96
+b'India',2013,3.75
+b'India',2007,3.52
+b'India',2006,3.63
+b'India',2014,3.62
+b'India',2003,4.01
+b'India',2005,3.79
+b'India',2012,3.33
+b'Indonesia',2005,2.53
+b'Indonesia',2002,1.98
+b'Indonesia',2004,2.12
+b'Indonesia',2008,2.55
+b'Indonesia',2013,2.87
+b'Indonesia',2006,2.62
+b'Indonesia',2007,2.82
+b'Indonesia',2011,2.99
+b'Indonesia',2010,2.79
+b'Indonesia',2014,2.96
+b'Indonesia',2003,2.25
+b'Indonesia',2015,2.7675
+b'Indonesia',2012,2.91
+b'Indonesia',2009,2.62
+b'Iran',2005,5.3
+b'Iran',2010,6.29
+b'Iran',2013,5.55
+b'Iran',2014,6.35
+b'Iran',2011,6.1
+b'Iran',2002,4.65
+b'Iran',2012,6.12
+b'Iran',2009,6.11
+b'Iran',2007,4.91
+b'Iran',2008,5.04
+b'Iran',2006,5.16
+b'Iran',2003,4.96
+b'Iran',2015,6.0113000000000065
+b'Iran',2004,5.13
+b'Iraq',2005,3.02
+b'Iraq',2003,3.0
+b'Iraq',2015,3.4437999999999995
+b'Iraq',2014,2.79
+b'Iraq',2008,3.07
+b'Iraq',2010,3.24
+b'Iraq',2012,2.69
+b'Iraq',2004,3.9
+b'Iraq',2013,2.81
+b'Iraq',2007,3.21
+b'Iraq',2006,2.49
+b'Iraq',2009,3.77
+b'Iraq',2011,2.8
+b'Ireland',2004,7.22
+b'Ireland',2003,7.01
+b'Ireland',2014,9.51
+b'Ireland',2015,9.634899999999996
+b'Ireland',2011,10.61
+b'Ireland',2006,7.52
+b'Ireland',2007,7.81
+b'Ireland',2009,10.52
+b'Ireland',2012,10.6
+b'Ireland',2013,10.28
+b'Ireland',2002,6.67
+b'Ireland',2008,9.13
+b'Ireland',2010,10.52
+b'Ireland',2005,7.64
+b'Israel',2009,6.92
+b'Israel',2006,6.71
+b'Israel',2014,7.05
+b'Israel',2008,6.83
+b'Israel',2012,6.98
+b'Israel',2010,6.89
+b'Israel',2002,6.92
+b'Israel',2015,6.916099999999996
+b'Israel',2003,6.86
+b'Israel',2011,6.84
+b'Israel',2007,6.7
+b'Israel',2004,6.8
+b'Israel',2013,6.96
+b'Israel',2005,6.9
+b'Italy',2007,8.14
+b'Italy',2013,8.78
+b'Italy',2002,7.87
+b'Italy',2011,8.77
+b'Italy',2009,8.95
+b'Italy',2003,7.83
+b'Italy',2006,8.44
+b'Italy',2008,8.53
+b'Italy',2005,8.34
+b'Italy',2010,8.92
+b'Italy',2014,8.87
+b'Italy',2012,8.78
+b'Italy',2004,8.17
+b'Italy',2015,8.830399999999996
+b'Jamaica',2010,5.3
+b'Jamaica',2005,4.55
+b'Jamaica',2013,4.95
+b'Jamaica',2012,4.89
+b'Jamaica',2004,4.8
+b'Jamaica',2009,5.15
+b'Jamaica',2014,5.17
+b'Jamaica',2002,4.75
+b'Jamaica',2008,5.61
+b'Jamaica',2003,4.22
+b'Jamaica',2011,5.24
+b'Jamaica',2006,4.21
+b'Jamaica',2007,5.32
+b'Jamaica',2015,5.3926000000000025
+b'Japan',2014,10.73
+b'Japan',2006,7.69
+b'Japan',2009,8.96
+b'Japan',2011,10.49
+b'Japan',2015,8.605799999999993
+b'Japan',2013,10.67
+b'Japan',2007,7.78
+b'Japan',2002,7.35
+b'Japan',2008,8.09
+b'Japan',2004,7.54
+b'Japan',2003,7.49
+b'Japan',2005,7.66
+b'Japan',2010,9.06
+b'Japan',2012,10.67
+b'Jordan',2005,8.49
+b'Jordan',2014,7.21
+b'Jordan',2010,8.17
+b'Jordan',2009,9.22
+b'Jordan',2013,7.17
+b'Jordan',2006,7.68
+b'Jordan',2011,8.15
+b'Jordan',2007,7.91
+b'Jordan',2015,8.124199999999991
+b'Jordan',2003,8.79
+b'Jordan',2002,9.28
+b'Jordan',2012,7.82
+b'Jordan',2008,8.49
+b'Jordan',2004,8.75
+b'Kazakhstan',2004,3.98
+b'Kazakhstan',2006,3.4
+b'Kazakhstan',2009,3.5
+b'Kazakhstan',2002,3.61
+b'Kazakhstan',2007,2.7
+b'Kazakhstan',2008,3.05
+b'Kazakhstan',2012,3.04
+b'Kazakhstan',2010,2.74
+b'Kazakhstan',2013,2.66
+b'Kazakhstan',2014,2.97
+b'Kazakhstan',2003,3.72
+b'Kazakhstan',2011,2.6
+b'Kazakhstan',2005,3.9
+b'Kazakhstan',2015,3.5931000000000006
+b'Kenya',2011,5.2
+b'Kenya',2015,5.4379
+b'Kenya',2003,4.06
+b'Kenya',2007,5.22
+b'Kenya',2008,5.29
+b'Kenya',2004,4.24
+b'Kenya',2006,5.11
+b'Kenya',2010,5.39
+b'Kenya',2005,4.24
+b'Kenya',2009,5.27
+b'Kenya',2002,3.85
+b'Kenya',2012,5.02
+b'Kenya',2013,4.93
+b'Kenya',2014,4.91
+b'Kiribati',2009,13.49
+b'Kiribati',2014,10.09
+b'Kiribati',2006,11.53
+b'Kiribati',2013,9.53
+b'Kiribati',2010,9.34
+b'Kiribati',2007,11.34
+b'Kiribati',2004,12.43
+b'Kiribati',2015,11.7523
+b'Kiribati',2003,10.7
+b'Kiribati',2011,8.67
+b'Kiribati',2005,11.52
+b'Kiribati',2012,8.69
+b'Kiribati',2008,14.05
+b'Kiribati',2002,11.87
+b'Kuwait',2003,2.76
+b'Kuwait',2009,2.71
+b'Kuwait',2013,2.49
+b'Kuwait',2011,2.33
+b'Kuwait',2004,2.36
+b'Kuwait',2010,2.68
+b'Kuwait',2012,2.33
+b'Kuwait',2015,2.873700000000001
+b'Kuwait',2002,3.12
+b'Kuwait',2008,1.92
+b'Kuwait',2007,1.93
+b'Kuwait',2005,2.01
+b'Kuwait',2006,1.82
+b'Kuwait',2014,2.92
+b'Kyrgyzstan',2011,7.11
+b'Kyrgyzstan',2010,6.95
+b'Kyrgyzstan',2007,6.93
+b'Kyrgyzstan',2013,8.19
+b'Kyrgyzstan',2003,5.82
+b'Kyrgyzstan',2014,7.36
+b'Kyrgyzstan',2002,4.59
+b'Kyrgyzstan',2009,6.9
+b'Kyrgyzstan',2012,8.51
+b'Kyrgyzstan',2005,7.45
+b'Kyrgyzstan',2015,7.1425999999999945
+b'Kyrgyzstan',2006,8.31
+b'Kyrgyzstan',2008,6.53
+b'Kyrgyzstan',2004,6.2
+b'Laos',2003,4.48
+b'Laos',2011,1.94
+b'Laos',2008,2.77
+b'Laos',2004,3.54
+b'Laos',2013,2.4
+b'Laos',2014,2.3
+b'Laos',2012,2.08
+b'Laos',2015,3.3957999999999986
+b'Laos',2005,3.34
+b'Laos',2009,3.46
+b'Laos',2002,3.7
+b'Laos',2007,3.15
+b'Laos',2010,2.91
+b'Laos',2006,2.93
+b'Latin America & Caribbean (WB)',2015,4.428400000000001
+b'Latvia',2009,6.1
+b'Latvia',2006,5.7
+b'Latvia',2012,5.41
+b'Latvia',2011,5.72
+b'Latvia',2004,6.2
+b'Latvia',2007,5.51
+b'Latvia',2010,6.1
+b'Latvia',2014,5.46
+b'Latvia',2002,5.76
+b'Latvia',2005,5.83
+b'Latvia',2003,5.48
+b'Latvia',2015,5.861000000000008
+b'Latvia',2008,5.58
+b'Latvia',2013,5.41
+b'Lebanon',2011,8.18
+b'Lebanon',2009,7.01
+b'Lebanon',2004,8.0
+b'Lebanon',2015,7.246000000000001
+b'Lebanon',2007,8.56
+b'Lebanon',2014,7.52
+b'Lebanon',2003,8.67
+b'Lebanon',2006,8.66
+b'Lebanon',2010,7.44
+b'Lebanon',2013,7.07
+b'Lebanon',2008,7.82
+b'Lebanon',2012,7.0
+b'Lebanon',2002,9.28
+b'Lebanon',2005,7.55
+b'Lesotho',2009,8.95
+b'Lesotho',2013,11.0
+b'Lesotho',2002,6.54
+b'Lesotho',2012,10.04
+b'Lesotho',2010,7.64
+b'Lesotho',2005,5.45
+b'Lesotho',2014,10.0
+b'Lesotho',2003,6.05
+b'Lesotho',2007,7.22
+b'Lesotho',2004,6.06
+b'Lesotho',2011,9.08
+b'Lesotho',2006,6.12
+b'Lesotho',2008,7.67
+b'Lesotho',2015,7.222500000000002
+b'Liberia',2005,7.14
+b'Liberia',2004,6.34
+b'Liberia',2014,8.77
+b'Liberia',2010,10.35
+b'Liberia',2009,11.57
+b'Liberia',2003,2.66
+b'Liberia',2002,2.28
+b'Liberia',2007,4.33
+b'Liberia',2015,6.970700000000002
+b'Liberia',2006,6.07
+b'Liberia',2011,9.71
+b'Liberia',2012,8.15
+b'Liberia',2008,6.0
+b'Liberia',2013,7.09
+b'Libya',2007,2.42
+b'Libya',2009,3.58
+b'Libya',2008,2.24
+b'Libya',2010,3.28
+b'Libya',2004,3.38
+b'Libya',2002,4.74
+b'Libya',2011,4.02
+b'Libya',2006,2.3
+b'Libya',2003,3.97
+b'Libya',2015,5.7376
+b'Libya',2005,2.52
+b'Lithuania',2007,5.76
+b'Lithuania',2013,6.13
+b'Lithuania',2003,6.19
+b'Lithuania',2014,6.19
+b'Lithuania',2005,5.65
+b'Lithuania',2002,6.14
+b'Lithuania',2008,6.29
+b'Lithuania',2015,6.740199999999996
+b'Lithuania',2006,5.84
+b'Lithuania',2010,6.81
+b'Lithuania',2012,6.28
+b'Lithuania',2009,7.37
+b'Lithuania',2011,6.49
+b'Lithuania',2004,5.51
+b'Low Income (WB)',2015,4.428400000000001
+b'Lower Middle Income (WB)',2015,4.428400000000001
+b'Luxembourg',2006,6.64
+b'Luxembourg',2008,6.23
+b'Luxembourg',2009,6.95
+b'Luxembourg',2007,6.16
+b'Luxembourg',2003,6.96
+b'Luxembourg',2013,5.24
+b'Luxembourg',2012,5.29
+b'Luxembourg',2015,6.402400000000005
+b'Luxembourg',2011,5.95
+b'Luxembourg',2005,7.12
+b'Luxembourg',2010,6.66
+b'Luxembourg',2004,7.28
+b'Luxembourg',2002,6.76
+b'Luxembourg',2014,5.23
+b'Madagascar',2004,5.25
+b'Madagascar',2008,4.08
+b'Madagascar',2007,4.61
+b'Madagascar',2012,3.91
+b'Madagascar',2011,4.52
+b'Madagascar',2006,5.07
+b'Madagascar',2014,4.46
+b'Madagascar',2015,4.471199999999999
+b'Madagascar',2003,5.0
+b'Madagascar',2002,4.93
+b'Madagascar',2013,3.75
+b'Madagascar',2005,5.22
+b'Madagascar',2010,4.7
+b'Madagascar',2009,4.38
+b'Malawi',2008,6.11
+b'Malawi',2005,4.3
+b'Malawi',2014,6.9
+b'Malawi',2013,8.22
+b'Malawi',2010,5.14
+b'Malawi',2003,3.32
+b'Malawi',2011,5.32
+b'Malawi',2002,2.7
+b'Malawi',2009,5.87
+b'Malawi',2004,4.07
+b'Malawi',2006,4.91
+b'Malawi',2007,5.44
+b'Malawi',2015,5.606599999999999
+b'Malawi',2012,6.02
+b'Malaysia',2012,3.46
+b'Malaysia',2002,2.67
+b'Malaysia',2009,3.26
+b'Malaysia',2004,2.86
+b'Malaysia',2014,3.71
+b'Malaysia',2005,2.79
+b'Malaysia',2013,3.51
+b'Malaysia',2007,3.07
+b'Malaysia',2010,3.16
+b'Malaysia',2011,3.31
+b'Malaysia',2003,2.92
+b'Malaysia',2015,3.183699999999999
+b'Malaysia',2006,3.11
+b'Malaysia',2008,3.01
+b'Maldives',2002,8.78
+b'Maldives',2014,7.91
+b'Maldives',2012,8.67
+b'Maldives',2003,6.78
+b'Maldives',2004,7.48
+b'Maldives',2010,8.49
+b'Maldives',2006,8.05
+b'Maldives',2009,10.09
+b'Maldives',2013,8.16
+b'Maldives',2007,8.31
+b'Maldives',2011,7.92
+b'Maldives',2015,7.546500000000002
+b'Maldives',2008,11.47
+b'Maldives',2005,8.83
+b'Mali',2002,5.0
+b'Mali',2015,4.915499999999998
+b'Mali',2005,5.2
+b'Mali',2013,3.97
+b'Mali',2007,5.25
+b'Mali',2010,4.68
+b'Mali',2004,5.22
+b'Mali',2003,5.05
+b'Mali',2008,5.03
+b'Mali',2012,3.75
+b'Mali',2014,4.48
+b'Mali',2011,4.01
+b'Mali',2006,5.46
+b'Mali',2009,5.21
+b'Malta',2011,8.45
+b'Malta',2015,7.980000000000001
+b'Malta',2009,7.92
+b'Malta',2003,7.9
+b'Malta',2008,7.86
+b'Malta',2010,7.95
+b'Malta',2004,8.05
+b'Malta',2012,8.38
+b'Malta',2002,7.71
+b'Malta',2007,8.17
+b'Malta',2006,8.81
+b'Malta',2013,8.5
+b'Malta',2014,9.09
+b'Malta',2005,8.66
+b'Marshall Islands',2002,12.84
+b'Marshall Islands',2013,13.47
+b'Marshall Islands',2010,13.93
+b'Marshall Islands',2009,14.54
+b'Marshall Islands',2005,20.22
+b'Marshall Islands',2007,16.27
+b'Marshall Islands',2004,15.62
+b'Marshall Islands',2012,13.04
+b'Marshall Islands',2003,12.77
+b'Marshall Islands',2011,13.09
+b'Marshall Islands',2006,20.33
+b'Marshall Islands',2014,13.21
+b'Marshall Islands',2008,15.2
+b'Marshall Islands',2015,16.07879999999999
+b'Mauritania',2009,3.11
+b'Mauritania',2011,2.47
+b'Mauritania',2002,4.0
+b'Mauritania',2004,3.7
+b'Mauritania',2015,2.8444999999999983
+b'Mauritania',2013,2.87
+b'Mauritania',2014,3.47
+b'Mauritania',2010,2.64
+b'Mauritania',2007,2.88
+b'Mauritania',2006,2.7
+b'Mauritania',2008,3.01
+b'Mauritania',2005,3.4
+b'Mauritania',2012,2.65
+b'Mauritania',2003,4.03
+b'Mauritius',2006,3.61
+b'Mauritius',2009,4.17
+b'Mauritius',2002,3.19
+b'Mauritius',2012,4.22
+b'Mauritius',2014,5.38
+b'Mauritius',2003,3.18
+b'Mauritius',2015,4.075400000000001
+b'Mauritius',2013,4.62
+b'Mauritius',2008,3.94
+b'Mauritius',2011,4.25
+b'Mauritius',2010,4.52
+b'Mauritius',2007,3.52
+b'Mauritius',2005,3.52
+b'Mauritius',2004,3.32
+b'Mexico',2015,5.663899999999999
+b'Mexico',2005,5.84
+b'Mexico',2010,5.74
+b'Mexico',2012,5.67
+b'Mexico',2014,5.55
+b'Mexico',2008,5.7
+b'Mexico',2006,5.66
+b'Mexico',2009,6.13
+b'Mexico',2007,5.77
+b'Mexico',2013,5.81
+b'Mexico',2004,5.95
+b'Mexico',2011,5.52
+b'Mexico',2002,5.07
+b'Mexico',2003,5.81
+b'Micronesia (country)',2015,11.138599999999995
+b'Micronesia (country)',2013,12.1
+b'Micronesia (country)',2010,13.11
+b'Micronesia (country)',2012,12.28
+b'Micronesia (country)',2011,13.1
+b'Micronesia (country)',2014,11.72
+b'Micronesia (country)',2002,7.9
+b'Micronesia (country)',2004,12.03
+b'Micronesia (country)',2007,11.06
+b'Micronesia (country)',2008,11.99
+b'Micronesia (country)',2006,10.74
+b'Micronesia (country)',2003,9.57
+b'Micronesia (country)',2009,12.55
+b'Micronesia (country)',2005,17.73
+b'Middle East & North Africa (WB)',2015,4.428400000000001
+b'Middle Income (WB)',2015,4.428400000000001
+b'Moldova',2005,9.56
+b'Moldova',2004,8.97
+b'Moldova',2007,11.02
+b'Moldova',2008,10.95
+b'Moldova',2006,10.54
+b'Moldova',2015,9.196700000000003
+b'Moldova',2002,7.4
+b'Moldova',2009,13.68
+b'Moldova',2014,8.63
+b'Moldova',2011,9.1
+b'Moldova',2012,9.14
+b'Moldova',2010,10.13
+b'Moldova',2003,7.02
+b'Moldova',2013,8.68
+b'Monaco',2005,4.5
+b'Monaco',2014,4.44
+b'Monaco',2007,3.81
+b'Monaco',2015,4.233099999999999
+b'Monaco',2009,4.84
+b'Monaco',2002,3.81
+b'Monaco',2011,4.64
+b'Monaco',2012,4.76
+b'Monaco',2004,4.52
+b'Monaco',2006,4.3
+b'Monaco',2008,4.08
+b'Monaco',2013,4.57
+b'Monaco',2003,4.43
+b'Monaco',2010,4.96
+b'Mongolia',2005,3.76
+b'Mongolia',2013,4.09
+b'Mongolia',2002,5.19
+b'Mongolia',2012,3.86
+b'Mongolia',2014,4.21
+b'Mongolia',2011,3.59
+b'Mongolia',2007,4.08
+b'Mongolia',2015,4.417399999999998
+b'Mongolia',2003,4.1
+b'Mongolia',2010,3.74
+b'Mongolia',2006,3.75
+b'Mongolia',2004,4.16
+b'Mongolia',2009,4.46
+b'Mongolia',2008,4.56
+b'Montenegro',2011,7.97
+b'Montenegro',2015,7.540100000000007
+b'Montenegro',2012,8.3
+b'Montenegro',2014,8.0
+b'Montenegro',2013,8.47
+b'Morocco',2015,5.141399999999994
+b'Morocco',2008,4.84
+b'Morocco',2003,4.08
+b'Morocco',2004,4.23
+b'Morocco',2007,4.81
+b'Morocco',2011,5.37
+b'Morocco',2014,5.42
+b'Morocco',2009,5.27
+b'Morocco',2013,5.26
+b'Morocco',2012,5.4
+b'Morocco',2006,4.57
+b'Morocco',2010,5.42
+b'Morocco',2005,4.37
+b'Morocco',2002,4.06
+b'Mozambique',2002,3.28
+b'Mozambique',2011,5.0
+b'Mozambique',2013,6.13
+b'Mozambique',2009,5.2
+b'Mozambique',2008,4.22
+b'Mozambique',2005,4.38
+b'Mozambique',2015,5.4286
+b'Mozambique',2003,3.4
+b'Mozambique',2012,5.25
+b'Mozambique',2004,3.67
+b'Mozambique',2014,6.33
+b'Mozambique',2006,4.09
+b'Mozambique',2007,3.93
+b'Mozambique',2010,5.44
+b'Myanmar',2010,1.96
+b'Myanmar',2013,3.2
+b'Myanmar',2012,2.41
+b'Myanmar',2005,2.33
+b'Myanmar',2011,1.93
+b'Myanmar',2002,2.58
+b'Myanmar',2004,2.32
+b'Myanmar',2015,2.1100999999999996
+b'Myanmar',2006,2.25
+b'Myanmar',2003,2.38
+b'Myanmar',2014,4.39
+b'Myanmar',2008,2.11
+b'Myanmar',2009,2.16
+b'Myanmar',2007,2.02
+b'Namibia',2011,9.83
+b'Namibia',2013,9.06
+b'Namibia',2005,10.08
+b'Namibia',2010,9.73
+b'Namibia',2003,9.91
+b'Namibia',2008,9.92
+b'Namibia',2006,10.57
+b'Namibia',2009,9.05
+b'Namibia',2007,10.72
+b'Namibia',2012,9.27
+b'Namibia',2002,9.68
+b'Namibia',2015,9.145199999999996
+b'Namibia',2014,8.41
+b'Namibia',2004,10.13
+b'Nauru',2010,12.7
+b'Nauru',2011,9.96
+b'Nauru',2014,8.39
+b'Nauru',2012,8.84
+b'Nauru',2006,12.42
+b'Nauru',2003,9.97
+b'Nauru',2004,6.88
+b'Nauru',2008,23.0
+b'Nauru',2009,12.32
+b'Nauru',2013,9.85
+b'Nauru',2002,13.81
+b'Nauru',2015,15.808400000000004
+b'Nauru',2005,10.82
+b'Nauru',2007,24.23
+b'Nepal',2003,3.86
+b'Nepal',2015,4.1781
+b'Nepal',2013,4.63
+b'Nepal',2007,3.67
+b'Nepal',2004,4.05
+b'Nepal',2008,3.82
+b'Nepal',2002,3.94
+b'Nepal',2010,4.36
+b'Nepal',2006,3.54
+b'Nepal',2012,4.49
+b'Nepal',2014,5.08
+b'Nepal',2005,3.95
+b'Nepal',2011,4.45
+b'Nepal',2009,3.9
+b'Netherlands',2014,10.57
+b'Netherlands',2012,10.54
+b'Netherlands',2010,10.16
+b'Netherlands',2002,8.65
+b'Netherlands',2005,9.1
+b'Netherlands',2003,9.06
+b'Netherlands',2009,9.99
+b'Netherlands',2007,9.05
+b'Netherlands',2011,10.23
+b'Netherlands',2006,9.08
+b'Netherlands',2008,9.28
+b'Netherlands',2013,10.58
+b'Netherlands',2004,9.11
+b'Netherlands',2015,9.6741
+b'New Zealand',2015,9.427200000000004
+b'New Zealand',2003,7.72
+b'New Zealand',2006,8.64
+b'New Zealand',2009,9.62
+b'New Zealand',2005,8.27
+b'New Zealand',2010,9.59
+b'New Zealand',2011,9.52
+b'New Zealand',2008,9.12
+b'New Zealand',2002,7.9
+b'New Zealand',2012,9.65
+b'New Zealand',2004,7.9
+b'New Zealand',2013,9.36
+b'New Zealand',2014,9.4
+b'New Zealand',2007,8.33
+b'Nicaragua',2002,5.73
+b'Nicaragua',2013,7.64
+b'Nicaragua',2004,6.06
+b'Nicaragua',2006,6.36
+b'Nicaragua',2003,6.08
+b'Nicaragua',2005,6.22
+b'Nicaragua',2010,7.71
+b'Nicaragua',2007,6.96
+b'Nicaragua',2014,7.98
+b'Nicaragua',2011,7.45
+b'Nicaragua',2015,7.057500000000002
+b'Nicaragua',2008,7.17
+b'Nicaragua',2009,7.69
+b'Nicaragua',2012,7.49
+b'Niger',2004,4.98
+b'Niger',2012,4.31
+b'Niger',2008,5.25
+b'Niger',2013,4.47
+b'Niger',2006,5.99
+b'Niger',2005,5.88
+b'Niger',2007,5.43
+b'Niger',2014,4.45
+b'Niger',2003,4.75
+b'Niger',2002,4.83
+b'Niger',2009,5.34
+b'Niger',2010,4.96
+b'Niger',2015,5.164799999999998
+b'Niger',2011,4.87
+b'Nigeria',2014,3.35
+b'Nigeria',2006,4.26
+b'Nigeria',2008,3.7
+b'Nigeria',2013,3.42
+b'Nigeria',2011,3.32
+b'Nigeria',2007,3.91
+b'Nigeria',2005,4.47
+b'Nigeria',2002,2.49
+b'Nigeria',2004,4.63
+b'Nigeria',2015,3.5202000000000013
+b'Nigeria',2010,3.3
+b'Nigeria',2003,5.05
+b'Nigeria',2012,3.36
+b'Nigeria',2009,3.58
+b'Niue',2010,15.54
+b'Niue',2003,9.53
+b'Niue',2005,12.3
+b'Niue',2011,19.83
+b'Niue',2008,23.26
+b'Niue',2014,10.83
+b'Niue',2007,23.61
+b'Niue',2015,24.635800000000003
+b'Niue',2012,10.31
+b'Niue',2004,17.34
+b'Niue',2009,28.82
+b'Niue',2002,11.11
+b'Niue',2006,50.18
+b'Niue',2013,9.71
+b'North America (WB)',2015,4.428400000000001
+b'North Korea',2015,5.717400000000001
+b'North Macedonia',2005,7.68
+b'North Macedonia',2009,6.53
+b'North Macedonia',2003,9.01
+b'North Macedonia',2011,6.52
+b'North Macedonia',2008,6.55
+b'North Macedonia',2014,6.29
+b'North Macedonia',2006,7.38
+b'North Macedonia',2012,6.61
+b'North Macedonia',2004,8.47
+b'North Macedonia',2007,6.57
+b'North Macedonia',2015,6.6494999999999935
+b'North Macedonia',2002,8.98
+b'North Macedonia',2010,6.71
+b'North Macedonia',2013,6.72
+b'Northern Ireland',2015,4.428400000000001
+b'Northern Mariana Islands',2015,5.750400000000003
+b'Norway',2003,9.19
+b'Norway',2008,7.92
+b'Norway',2002,8.98
+b'Norway',2011,8.73
+b'Norway',2009,9.03
+b'Norway',2004,8.8
+b'Norway',2013,8.87
+b'Norway',2010,8.86
+b'Norway',2012,8.72
+b'Norway',2006,7.88
+b'Norway',2007,8.02
+b'Norway',2014,9.28
+b'Norway',2015,8.32179999999999
+b'Norway',2005,8.3
+b'OECD Countries',2015,4.428400000000001
+b'Oman',2008,1.76
+b'Oman',2013,2.51
+b'Oman',2006,2.02
+b'Oman',2005,2.26
+b'Oman',2014,3.14
+b'Oman',2010,2.48
+b'Oman',2015,2.7809000000000004
+b'Oman',2012,2.28
+b'Oman',2003,2.78
+b'Oman',2007,2.11
+b'Oman',2004,2.6
+b'Oman',2011,2.24
+b'Oman',2009,2.47
+b'Oman',2002,2.78
+b'Pakistan',2006,2.86
+b'Pakistan',2005,2.55
+b'Pakistan',2013,2.4
+b'Pakistan',2004,2.22
+b'Pakistan',2009,2.47
+b'Pakistan',2012,2.2
+b'Pakistan',2008,2.71
+b'Pakistan',2002,2.66
+b'Pakistan',2007,2.82
+b'Pakistan',2015,2.4141999999999997
+b'Pakistan',2011,2.14
+b'Pakistan',2014,2.46
+b'Pakistan',2010,2.4
+b'Pakistan',2003,2.3
+b'Palau',2008,9.4
+b'Palau',2004,9.92
+b'Palau',2010,11.62
+b'Palau',2014,12.12
+b'Palau',2006,9.56
+b'Palau',2009,10.31
+b'Palau',2011,10.86
+b'Palau',2015,10.182399999999987
+b'Palau',2013,11.98
+b'Palau',2007,9.81
+b'Palau',2002,8.02
+b'Palau',2005,9.29
+b'Palau',2003,8.96
+b'Palau',2012,11.5
+b'Palestine',2015,4.4392000000000005
+b'Panama',2015,7.118399999999998
+b'Panama',2006,6.78
+b'Panama',2009,7.24
+b'Panama',2003,6.96
+b'Panama',2002,7.31
+b'Panama',2013,6.76
+b'Panama',2012,6.74
+b'Panama',2008,7.05
+b'Panama',2011,7.08
+b'Panama',2004,7.34
+b'Panama',2005,6.43
+b'Panama',2014,7.17
+b'Panama',2007,7.62
+b'Panama',2010,7.49
+b'Papua New Guinea',2009,2.33
+b'Papua New Guinea',2011,2.29
+b'Papua New Guinea',2010,2.11
+b'Papua New Guinea',2008,2.14
+b'Papua New Guinea',2013,3.0
+b'Papua New Guinea',2006,2.43
+b'Papua New Guinea',2012,2.67
+b'Papua New Guinea',2003,2.45
+b'Papua New Guinea',2007,2.42
+b'Papua New Guinea',2015,2.471099999999997
+b'Papua New Guinea',2005,2.45
+b'Papua New Guinea',2014,3.27
+b'Papua New Guinea',2004,2.59
+b'Papua New Guinea',2002,2.78
+b'Paraguay',2004,4.93
+b'Paraguay',2014,6.63
+b'Paraguay',2010,5.47
+b'Paraguay',2015,5.470499999999996
+b'Paraguay',2003,4.91
+b'Paraguay',2012,6.53
+b'Paraguay',2008,5.04
+b'Paraguay',2009,5.52
+b'Paraguay',2011,5.82
+b'Paraguay',2002,4.76
+b'Paraguay',2005,4.83
+b'Paraguay',2007,5.02
+b'Paraguay',2013,6.06
+b'Paraguay',2006,5.02
+b'Peru',2005,4.67
+b'Peru',2007,4.43
+b'Peru',2003,4.59
+b'Peru',2004,4.43
+b'Peru',2006,4.41
+b'Peru',2011,4.54
+b'Peru',2008,4.53
+b'Peru',2015,4.609100000000001
+b'Peru',2012,4.73
+b'Peru',2002,4.94
+b'Peru',2009,4.97
+b'Peru',2010,4.72
+b'Peru',2013,4.75
+b'Peru',2014,4.96
+b'Philippines',2013,4.27
+b'Philippines',2014,3.7
+b'Philippines',2007,3.75
+b'Philippines',2004,3.05
+b'Philippines',2012,4.18
+b'Philippines',2006,3.78
+b'Philippines',2015,3.9901999999999993
+b'Philippines',2003,3.08
+b'Philippines',2005,3.74
+b'Philippines',2009,4.16
+b'Philippines',2002,2.64
+b'Philippines',2011,4.03
+b'Philippines',2010,4.13
+b'Philippines',2008,3.86
+b'Poland',2007,5.87
+b'Poland',2010,6.47
+b'Poland',2015,6.361500000000001
+b'Poland',2005,5.81
+b'Poland',2006,5.8
+b'Poland',2002,6.07
+b'Poland',2014,6.43
+b'Poland',2013,6.48
+b'Poland',2004,5.87
+b'Poland',2009,6.59
+b'Poland',2011,6.29
+b'Poland',2012,6.27
+b'Poland',2008,6.38
+b'Poland',2003,5.95
+b'Portugal',2015,9.917699999999996
+b'Portugal',2013,9.4
+b'Portugal',2007,9.25
+b'Portugal',2004,9.53
+b'Portugal',2005,9.65
+b'Portugal',2002,8.79
+b'Portugal',2010,10.03
+b'Portugal',2012,9.65
+b'Portugal',2014,9.34
+b'Portugal',2009,10.13
+b'Portugal',2006,9.35
+b'Portugal',2003,9.12
+b'Portugal',2011,9.73
+b'Portugal',2008,9.58
+b'Puerto Rico',2015,8.062300000000004
+b'Qatar',2005,2.56
+b'Qatar',2004,3.18
+b'Qatar',2010,1.87
+b'Qatar',2003,3.5
+b'Qatar',2006,2.29
+b'Qatar',2008,1.64
+b'Qatar',2015,3.7758999999999974
+b'Qatar',2013,2.08
+b'Qatar',2009,2.38
+b'Qatar',2012,1.75
+b'Qatar',2002,2.46
+b'Qatar',2007,2.07
+b'Qatar',2014,2.42
+b'Qatar',2011,1.6
+b'Region of the Americas (WHO)',2015,4.428400000000001
+b'Romania',2008,5.02
+b'Romania',2009,5.28
+b'Romania',2004,5.48
+b'Romania',2007,5.02
+b'Romania',2014,5.03
+b'Romania',2015,5.123799999999996
+b'Romania',2003,5.37
+b'Romania',2011,4.48
+b'Romania',2006,5.07
+b'Romania',2002,4.58
+b'Romania',2005,5.53
+b'Romania',2010,5.64
+b'Romania',2012,4.51
+b'Romania',2013,5.22
+b'Russia',2014,5.18
+b'Russia',2009,5.64
+b'Russia',2003,5.16
+b'Russia',2007,4.75
+b'Russia',2008,4.9
+b'Russia',2002,5.52
+b'Russia',2013,5.08
+b'Russia',2006,4.77
+b'Russia',2005,4.77
+b'Russia',2015,4.949999999999999
+b'Russia',2011,4.79
+b'Russia',2012,4.94
+b'Russia',2004,4.76
+b'Russia',2010,4.97
+b'Rwanda',2008,7.57
+b'Rwanda',2006,7.61
+b'Rwanda',2012,8.11
+b'Rwanda',2005,7.73
+b'Rwanda',2013,6.78
+b'Rwanda',2010,8.09
+b'Rwanda',2002,3.13
+b'Rwanda',2011,7.94
+b'Rwanda',2015,6.739400000000002
+b'Rwanda',2007,7.86
+b'Rwanda',2014,6.99
+b'Rwanda',2003,6.93
+b'Rwanda',2009,7.81
+b'Rwanda',2004,7.51
+b'Saint Kitts and Nevis',2012,5.01
+b'Saint Kitts and Nevis',2008,5.31
+b'Saint Kitts and Nevis',2005,4.73
+b'Saint Kitts and Nevis',2014,4.75
+b'Saint Kitts and Nevis',2013,5.04
+b'Saint Kitts and Nevis',2003,4.75
+b'Saint Kitts and Nevis',2015,5.086900000000003
+b'Saint Kitts and Nevis',2011,5.16
+b'Saint Kitts and Nevis',2006,4.98
+b'Saint Kitts and Nevis',2004,4.49
+b'Saint Kitts and Nevis',2007,4.8
+b'Saint Kitts and Nevis',2010,5.21
+b'Saint Kitts and Nevis',2002,4.45
+b'Saint Kitts and Nevis',2009,5.29
+b'Saint Lucia',2004,4.77
+b'Saint Lucia',2005,4.86
+b'Saint Lucia',2013,5.05
+b'Saint Lucia',2012,4.92
+b'Saint Lucia',2003,5.24
+b'Saint Lucia',2015,5.186600000000002
+b'Saint Lucia',2002,5.39
+b'Saint Lucia',2007,5.54
+b'Saint Lucia',2006,5.13
+b'Saint Lucia',2009,5.24
+b'Saint Lucia',2014,4.62
+b'Saint Lucia',2008,5.09
+b'Saint Lucia',2010,5.05
+b'Saint Lucia',2011,5.08
+b'Saint Vincent and the Grenadines',2013,4.24
+b'Saint Vincent and the Grenadines',2009,4.09
+b'Saint Vincent and the Grenadines',2007,3.82
+b'Saint Vincent and the Grenadines',2004,3.87
+b'Saint Vincent and the Grenadines',2008,3.88
+b'Saint Vincent and the Grenadines',2005,3.83
+b'Saint Vincent and the Grenadines',2002,4.08
+b'Saint Vincent and the Grenadines',2011,4.23
+b'Saint Vincent and the Grenadines',2010,4.3
+b'Saint Vincent and the Grenadines',2014,4.18
+b'Saint Vincent and the Grenadines',2012,4.45
+b'Saint Vincent and the Grenadines',2006,3.65
+b'Saint Vincent and the Grenadines',2003,3.96
+b'Saint Vincent and the Grenadines',2015,4.382399999999998
+b'Samoa',2015,4.989599999999996
+b'Samoa',2013,6.21
+b'Samoa',2002,4.49
+b'Samoa',2004,4.53
+b'Samoa',2014,6.25
+b'Samoa',2003,4.17
+b'Samoa',2005,4.63
+b'Samoa',2010,5.15
+b'Samoa',2008,4.53
+b'Samoa',2012,4.99
+b'Samoa',2006,4.88
+b'Samoa',2007,4.74
+b'Samoa',2011,5.38
+b'Samoa',2009,5.13
+b'San Marino',2015,6.605200000000002
+b'San Marino',2006,4.91
+b'San Marino',2012,8.99
+b'San Marino',2004,4.86
+b'San Marino',2013,8.24
+b'San Marino',2014,8.3
+b'San Marino',2009,6.18
+b'San Marino',2011,8.07
+b'San Marino',2005,4.89
+b'San Marino',2008,5.41
+b'San Marino',2007,5.1
+b'San Marino',2003,4.77
+b'San Marino',2002,5.39
+b'San Marino',2010,6.21
+b'Sao Tome and Principe',2010,6.86
+b'Sao Tome and Principe',2009,7.24
+b'Sao Tome and Principe',2002,10.7
+b'Sao Tome and Principe',2006,8.3
+b'Sao Tome and Principe',2014,6.73
+b'Sao Tome and Principe',2008,7.17
+b'Sao Tome and Principe',2007,8.2
+b'Sao Tome and Principe',2005,11.55
+b'Sao Tome and Principe',2015,7.370500000000003
+b'Sao Tome and Principe',2013,7.94
+b'Sao Tome and Principe',2003,12.66
+b'Sao Tome and Principe',2012,6.48
+b'Sao Tome and Principe',2004,11.92
+b'Sao Tome and Principe',2011,6.76
+b'Saudi Arabia',2011,3.68
+b'Saudi Arabia',2003,3.98
+b'Saudi Arabia',2004,3.58
+b'Saudi Arabia',2012,3.99
+b'Saudi Arabia',2006,3.62
+b'Saudi Arabia',2014,5.16
+b'Saudi Arabia',2007,3.56
+b'Saudi Arabia',2002,4.25
+b'Saudi Arabia',2009,4.29
+b'Saudi Arabia',2008,2.97
+b'Saudi Arabia',2005,3.42
+b'Saudi Arabia',2013,4.42
+b'Saudi Arabia',2015,4.976700000000001
+b'Saudi Arabia',2010,3.65
+b'Scotland',2015,4.428400000000001
+b'Senegal',2007,3.41
+b'Senegal',2003,4.3
+b'Senegal',2013,4.39
+b'Senegal',2009,3.84
+b'Senegal',2010,4.03
+b'Senegal',2002,3.95
+b'Senegal',2005,3.67
+b'Senegal',2011,4.21
+b'Senegal',2006,3.76
+b'Senegal',2014,4.39
+b'Senegal',2015,3.818299999999997
+b'Senegal',2008,3.51
+b'Senegal',2004,4.57
+b'Senegal',2012,4.27
+b'Serbia',2011,9.11
+b'Serbia',2010,9.53
+b'Serbia',2005,8.28
+b'Serbia',2014,9.25
+b'Serbia',2007,9.38
+b'Serbia',2008,9.48
+b'Serbia',2002,7.59
+b'Serbia',2009,9.35
+b'Serbia',2012,9.33
+b'Serbia',2006,8.49
+b'Serbia',2003,7.67
+b'Serbia',2004,7.84
+b'Serbia',2015,9.268100000000004
+b'Serbia',2013,9.31
+b'Seychelles',2011,4.46
+b'Seychelles',2012,5.4
+b'Seychelles',2003,5.09
+b'Seychelles',2015,4.160500000000001
+b'Seychelles',2002,4.35
+b'Seychelles',2013,4.25
+b'Seychelles',2006,4.4
+b'Seychelles',2009,3.54
+b'Seychelles',2005,4.67
+b'Seychelles',2007,3.85
+b'Seychelles',2010,4.5
+b'Seychelles',2004,4.9
+b'Seychelles',2014,4.59
+b'Seychelles',2008,3.62
+b'Sierra Leone',2012,8.94
+b'Sierra Leone',2003,8.45
+b'Sierra Leone',2013,11.59
+b'Sierra Leone',2005,9.04
+b'Sierra Leone',2002,9.4
+b'Sierra Leone',2008,8.81
+b'Sierra Leone',2004,8.67
+b'Sierra Leone',2009,9.68
+b'Sierra Leone',2014,19.69
+b'Sierra Leone',2015,8.699499999999986
+b'Sierra Leone',2007,8.52
+b'Sierra Leone',2011,10.77
+b'Sierra Leone',2006,9.02
+b'Sierra Leone',2010,9.13
+b'Singapore',2009,3.4
+b'Singapore',2008,3.19
+b'Singapore',2015,3.2061999999999995
+b'Singapore',2003,3.61
+b'Singapore',2005,3.03
+b'Singapore',2012,3.33
+b'Singapore',2004,3.15
+b'Singapore',2002,3.36
+b'Singapore',2007,2.84
+b'Singapore',2010,3.2
+b'Singapore',2014,3.87
+b'Singapore',2013,3.69
+b'Singapore',2011,3.16
+b'Singapore',2006,2.93
+b'Slovakia',2002,5.51
+b'Slovakia',2011,7.3
+b'Slovakia',2003,5.45
+b'Slovakia',2005,6.59
+b'Slovakia',2012,7.54
+b'Slovakia',2009,7.95
+b'Slovakia',2015,7.376200000000006
+b'Slovakia',2004,6.37
+b'Slovakia',2014,6.88
+b'Slovakia',2006,6.85
+b'Slovakia',2013,7.5
+b'Slovakia',2007,7.18
+b'Slovakia',2008,6.96
+b'Slovakia',2010,7.67
+b'Slovenia',2003,8.1
+b'Slovenia',2004,7.94
+b'Slovenia',2015,8.228600000000004
+b'Slovenia',2013,8.74
+b'Slovenia',2006,7.82
+b'Slovenia',2007,7.51
+b'Slovenia',2002,8.02
+b'Slovenia',2014,8.5
+b'Slovenia',2011,8.54
+b'Slovenia',2010,8.57
+b'Slovenia',2012,8.72
+b'Slovenia',2008,7.85
+b'Slovenia',2009,8.54
+b'Slovenia',2005,8.0
+b'Solomon Islands',2002,10.1
+b'Solomon Islands',2004,7.72
+b'Solomon Islands',2009,6.61
+b'Solomon Islands',2007,7.18
+b'Solomon Islands',2008,5.51
+b'Solomon Islands',2011,5.02
+b'Solomon Islands',2006,8.01
+b'Solomon Islands',2003,7.08
+b'Solomon Islands',2013,4.58
+b'Solomon Islands',2014,4.89
+b'Solomon Islands',2005,9.02
+b'Solomon Islands',2012,4.87
+b'Solomon Islands',2010,4.66
+b'Solomon Islands',2015,6.432500000000005
+b'Somalia',2015,4.951700000000001
+b'South Africa',2014,7.87
+b'South Africa',2005,6.86
+b'South Africa',2011,7.94
+b'South Africa',2008,7.15
+b'South Africa',2003,7.04
+b'South Africa',2004,6.94
+b'South Africa',2002,6.68
+b'South Africa',2015,7.4348999999999945
+b'South Africa',2009,7.65
+b'South Africa',2007,6.91
+b'South Africa',2012,8.0
+b'South Africa',2013,8.1
+b'South Africa',2010,7.79
+b'South Africa',2006,6.88
+b'South Asia (WB)',2015,4.428400000000001
+b'South Korea',2008,5.25
+b'South Korea',2009,5.66
+b'South Korea',2014,6.4
+b'South Korea',2015,5.807400000000002
+b'South Korea',2006,4.85
+b'South Korea',2005,4.55
+b'South Korea',2003,4.28
+b'South Korea',2002,4.01
+b'South Korea',2007,4.95
+b'South Korea',2012,6.03
+b'South Korea',2013,6.15
+b'South Korea',2004,4.27
+b'South Korea',2011,5.91
+b'South Korea',2010,5.82
+b'South Sudan',2015,4.4044000000000025
+b'South-East Asia Region (WHO)',2015,4.428400000000001
+b'Spain',2010,9.12
+b'Spain',2009,9.11
+b'Spain',2006,7.83
+b'Spain',2005,7.73
+b'Spain',2015,8.538799999999998
+b'Spain',2012,9.15
+b'Spain',2007,7.92
+b'Spain',2008,8.38
+b'Spain',2004,7.66
+b'Spain',2014,9.08
+b'Spain',2003,7.56
+b'Spain',2013,9.06
+b'Spain',2002,6.8
+b'Spain',2011,9.17
+b'Sri Lanka',2003,3.65
+b'Sri Lanka',2015,3.836700000000001
+b'Sri Lanka',2013,3.69
+b'Sri Lanka',2011,3.58
+b'Sri Lanka',2002,4.04
+b'Sri Lanka',2012,3.31
+b'Sri Lanka',2014,3.47
+b'Sri Lanka',2004,4.04
+b'Sri Lanka',2009,4.06
+b'Sri Lanka',2006,3.85
+b'Sri Lanka',2005,3.88
+b'Sri Lanka',2010,3.74
+b'Sri Lanka',2008,3.85
+b'Sri Lanka',2007,3.82
+b'Sub-Saharan Africa (WB)',2015,4.428400000000001
+b'Sudan',2007,5.66
+b'Sudan',2011,5.62
+b'Sudan',2003,3.89
+b'Sudan',2015,5.6099
+b'Sudan',2008,5.42
+b'Sudan',2009,6.39
+b'Sudan',2004,4.16
+b'Sudan',2013,6.96
+b'Sudan',2014,5.68
+b'Sudan',2005,4.09
+b'Sudan',2012,5.69
+b'Sudan',2002,3.3
+b'Sudan',2010,5.06
+b'Sudan',2006,4.89
+b'Suriname',2004,5.46
+b'Suriname',2002,5.33
+b'Suriname',2009,4.98
+b'Suriname',2007,5.22
+b'Suriname',2006,5.86
+b'Suriname',2010,4.7
+b'Suriname',2008,4.75
+b'Suriname',2013,4.49
+b'Suriname',2011,4.41
+b'Suriname',2003,4.89
+b'Suriname',2012,4.28
+b'Suriname',2005,5.24
+b'Suriname',2015,4.105100000000002
+b'Suriname',2014,4.52
+b'Sweden',2007,8.0
+b'Sweden',2010,8.32
+b'Sweden',2014,10.95
+b'Sweden',2002,8.21
+b'Sweden',2006,8.05
+b'Sweden',2004,8.13
+b'Sweden',2005,8.15
+b'Sweden',2003,8.32
+b'Sweden',2009,8.77
+b'Sweden',2012,10.74
+b'Sweden',2013,10.9
+b'Sweden',2008,8.21
+b'Sweden',2011,10.42
+b'Sweden',2015,8.615300000000003
+b'Switzerland',2002,9.88
+b'Switzerland',2009,10.14
+b'Switzerland',2004,10.23
+b'Switzerland',2010,9.93
+b'Switzerland',2003,10.14
+b'Switzerland',2011,10.05
+b'Switzerland',2015,9.825999999999988
+b'Switzerland',2012,10.14
+b'Switzerland',2008,9.53
+b'Switzerland',2013,10.38
+b'Switzerland',2005,10.06
+b'Switzerland',2014,10.43
+b'Switzerland',2007,9.42
+b'Switzerland',2006,9.58
+b'Syria',2007,3.72
+b'Syria',2011,2.53
+b'Syria',2012,3.05
+b'Syria',2005,4.11
+b'Syria',2002,4.95
+b'Syria',2008,3.4
+b'Syria',2015,3.470899999999999
+b'Syria',2006,3.78
+b'Syria',2010,3.28
+b'Syria',2003,5.12
+b'Syria',2004,4.48
+b'Syria',2009,3.55
+b'Taiwan',2015,8.269399999999992
+b'Tajikistan',2012,5.98
+b'Tajikistan',2009,5.86
+b'Tajikistan',2006,5.03
+b'Tajikistan',2005,5.21
+b'Tajikistan',2015,5.655200000000008
+b'Tajikistan',2011,5.86
+b'Tajikistan',2010,5.74
+b'Tajikistan',2008,5.91
+b'Tajikistan',2014,6.67
+b'Tajikistan',2002,4.44
+b'Tajikistan',2004,4.8
+b'Tajikistan',2003,4.7
+b'Tajikistan',2007,5.54
+b'Tajikistan',2013,6.53
+b'Tanzania',2004,5.74
+b'Tanzania',2005,6.32
+b'Tanzania',2003,5.34
+b'Tanzania',2010,5.22
+b'Tanzania',2002,4.69
+b'Tanzania',2006,7.6
+b'Tanzania',2007,6.88
+b'Tanzania',2014,4.01
+b'Tanzania',2009,5.06
+b'Tanzania',2008,5.56
+b'Tanzania',2012,5.02
+b'Tanzania',2013,4.65
+b'Tanzania',2015,5.491100000000006
+b'Tanzania',2011,5.06
+b'Thailand',2009,3.62
+b'Thailand',2015,3.6202999999999985
+b'Thailand',2010,3.39
+b'Thailand',2006,3.1
+b'Thailand',2002,3.33
+b'Thailand',2011,3.57
+b'Thailand',2007,3.19
+b'Thailand',2013,3.45
+b'Thailand',2005,3.16
+b'Thailand',2014,3.68
+b'Thailand',2012,3.52
+b'Thailand',2003,3.24
+b'Thailand',2004,3.14
+b'Thailand',2008,3.46
+b'Togo',2004,3.09
+b'Togo',2003,2.94
+b'Togo',2013,4.94
+b'Togo',2010,4.45
+b'Togo',2011,4.55
+b'Togo',2015,4.306799999999994
+b'Togo',2009,4.08
+b'Togo',2007,3.87
+b'Togo',2012,4.81
+b'Togo',2008,3.84
+b'Togo',2014,5.08
+b'Togo',2006,3.45
+b'Togo',2002,2.9
+b'Togo',2005,3.3
+b'Tokelau',2015,7.909999999999999
+b'Tonga',2011,3.82
+b'Tonga',2009,3.93
+b'Tonga',2010,4.82
+b'Tonga',2008,6.06
+b'Tonga',2014,5.01
+b'Tonga',2007,4.73
+b'Tonga',2002,3.59
+b'Tonga',2004,4.51
+b'Tonga',2003,3.44
+b'Tonga',2006,5.47
+b'Tonga',2015,4.691000000000001
+b'Tonga',2005,4.39
+b'Tonga',2012,4.8
+b'Tonga',2013,3.98
+b'Trinidad and Tobago',2014,4.87
+b'Trinidad and Tobago',2004,4.31
+b'Trinidad and Tobago',2012,4.63
+b'Trinidad and Tobago',2003,4.19
+b'Trinidad and Tobago',2011,4.72
+b'Trinidad and Tobago',2010,5.08
+b'Trinidad and Tobago',2013,4.8
+b'Trinidad and Tobago',2015,4.3221000000000025
+b'Trinidad and Tobago',2008,3.66
+b'Trinidad and Tobago',2005,4.43
+b'Trinidad and Tobago',2006,4.15
+b'Trinidad and Tobago',2007,4.15
+b'Trinidad and Tobago',2009,5.49
+b'Trinidad and Tobago',2002,4.72
+b'Tunisia',2003,5.21
+b'Tunisia',2007,5.18
+b'Tunisia',2012,6.29
+b'Tunisia',2015,5.386700000000008
+b'Tunisia',2005,5.15
+b'Tunisia',2002,5.12
+b'Tunisia',2013,6.51
+b'Tunisia',2010,5.61
+b'Tunisia',2009,5.41
+b'Tunisia',2006,5.13
+b'Tunisia',2014,6.45
+b'Tunisia',2011,6.12
+b'Tunisia',2008,5.16
+b'Tunisia',2004,5.2
+b'Turkey',2002,5.06
+b'Turkey',2006,5.15
+b'Turkey',2009,5.49
+b'Turkey',2005,4.89
+b'Turkey',2013,4.37
+b'Turkey',2011,4.65
+b'Turkey',2007,5.24
+b'Turkey',2014,4.33
+b'Turkey',2008,5.22
+b'Turkey',2010,5.02
+b'Turkey',2015,5.192700000000005
+b'Turkey',2003,5.01
+b'Turkey',2012,4.44
+b'Turkey',2004,4.91
+b'Turkmenistan',2010,3.24
+b'Turkmenistan',2013,3.94
+b'Turkmenistan',2007,3.13
+b'Turkmenistan',2011,3.25
+b'Turkmenistan',2009,2.85
+b'Turkmenistan',2014,4.31
+b'Turkmenistan',2005,5.65
+b'Turkmenistan',2004,6.26
+b'Turkmenistan',2006,4.98
+b'Turkmenistan',2015,3.508100000000004
+b'Turkmenistan',2008,3.49
+b'Turkmenistan',2003,5.04
+b'Turkmenistan',2002,4.16
+b'Turkmenistan',2012,3.37
+b'Tuvalu',2015,12.537599999999996
+b'Tuvalu',2012,13.6
+b'Tuvalu',2005,10.56
+b'Tuvalu',2011,14.1
+b'Tuvalu',2009,12.27
+b'Tuvalu',2010,15.65
+b'Tuvalu',2002,12.43
+b'Tuvalu',2003,14.39
+b'Tuvalu',2013,14.34
+b'Tuvalu',2007,10.52
+b'Tuvalu',2006,12.27
+b'Tuvalu',2014,14.69
+b'Tuvalu',2004,9.89
+b'Tuvalu',2008,10.12
+b'Uganda',2013,5.78
+b'Uganda',2009,5.79
+b'Uganda',2002,4.77
+b'Uganda',2006,6.46
+b'Uganda',2008,5.45
+b'Uganda',2010,6.81
+b'Uganda',2012,6.11
+b'Uganda',2005,5.81
+b'Uganda',2015,5.808299999999998
+b'Uganda',2011,6.7
+b'Uganda',2003,4.3
+b'Uganda',2007,6.11
+b'Uganda',2004,4.7
+b'Uganda',2014,5.34
+b'Ukraine',2014,7.2
+b'Ukraine',2015,6.4631
+b'Ukraine',2005,6.35
+b'Ukraine',2008,5.5
+b'Ukraine',2007,6.02
+b'Ukraine',2012,7.12
+b'Ukraine',2006,6.42
+b'Ukraine',2004,6.17
+b'Ukraine',2010,6.81
+b'Ukraine',2011,6.82
+b'Ukraine',2013,6.94
+b'Ukraine',2003,6.55
+b'Ukraine',2002,5.99
+b'Ukraine',2009,6.61
+b'United Arab Emirates',2015,4.2340000000000035
+b'United Arab Emirates',2007,2.57
+b'United Arab Emirates',2013,3.5
+b'United Arab Emirates',2005,2.32
+b'United Arab Emirates',2006,2.33
+b'United Arab Emirates',2008,2.93
+b'United Arab Emirates',2003,2.65
+b'United Arab Emirates',2012,3.34
+b'United Arab Emirates',2014,3.53
+b'United Arab Emirates',2002,2.72
+b'United Arab Emirates',2004,2.46
+b'United Arab Emirates',2011,3.67
+b'United Arab Emirates',2009,4.05
+b'United Arab Emirates',2010,3.88
+b'United Kingdom',2008,9.03
+b'United Kingdom',2015,9.932699999999985
+b'United Kingdom',2007,8.62
+b'United Kingdom',2002,7.65
+b'United Kingdom',2013,9.87
+b'United Kingdom',2010,9.93
+b'United Kingdom',2005,8.36
+b'United Kingdom',2004,8.31
+b'United Kingdom',2012,9.95
+b'United Kingdom',2009,10.05
+b'United Kingdom',2003,8.06
+b'United Kingdom',2014,9.86
+b'United Kingdom',2011,9.92
+b'United Kingdom',2006,8.63
+b'United States Virgin Islands',2015,4.4073
+b'United States',2008,15.21
+b'United States',2011,16.14
+b'United States',2010,16.2
+b'United States',2006,14.71
+b'United States',2005,14.58
+b'United States',2004,14.55
+b'United States',2003,14.51
+b'United States',2014,16.2
+b'United States',2012,16.12
+b'United States',2007,14.92
+b'United States',2013,15.99
+b'United States',2002,14.0
+b'United States',2015,15.41620000000002
+b'United States',2009,16.2
+b'Uruguay',2015,7.840599999999996
+b'Uruguay',2010,7.91
+b'Uruguay',2006,7.74
+b'Uruguay',2013,8.12
+b'Uruguay',2008,8.13
+b'Uruguay',2014,8.07
+b'Uruguay',2002,9.68
+b'Uruguay',2004,8.3
+b'Uruguay',2007,7.49
+b'Uruguay',2011,7.95
+b'Uruguay',2009,7.95
+b'Uruguay',2012,8.07
+b'Uruguay',2003,9.62
+b'Uruguay',2005,7.76
+b'Uzbekistan',2015,4.877200000000005
+b'Uzbekistan',2004,4.84
+b'Uzbekistan',2011,5.26
+b'Uzbekistan',2010,5.3
+b'Uzbekistan',2014,4.43
+b'Uzbekistan',2009,4.8
+b'Uzbekistan',2008,4.7
+b'Uzbekistan',2012,5.55
+b'Uzbekistan',2005,4.78
+b'Uzbekistan',2002,5.14
+b'Uzbekistan',2013,5.72
+b'Uzbekistan',2006,4.75
+b'Uzbekistan',2003,5.19
+b'Uzbekistan',2007,4.54
+b'Vanuatu',2004,3.54
+b'Vanuatu',2005,3.31
+b'Vanuatu',2010,3.53
+b'Vanuatu',2007,3.11
+b'Vanuatu',2011,3.6
+b'Vanuatu',2002,3.9
+b'Vanuatu',2013,4.39
+b'Vanuatu',2009,3.25
+b'Vanuatu',2014,3.65
+b'Vanuatu',2008,3.14
+b'Vanuatu',2012,3.94
+b'Vanuatu',2003,3.51
+b'Vanuatu',2006,3.32
+b'Vanuatu',2015,3.4782999999999986
+b'Venezuela',2015,3.4568999999999988
+b'Vietnam',2011,4.97
+b'Vietnam',2002,3.87
+b'Vietnam',2003,3.94
+b'Vietnam',2010,5.07
+b'Vietnam',2012,5.0
+b'Vietnam',2008,4.36
+b'Vietnam',2013,4.41
+b'Vietnam',2005,4.32
+b'Vietnam',2004,4.09
+b'Vietnam',2006,4.57
+b'Vietnam',2009,4.49
+b'Vietnam',2014,4.69
+b'Vietnam',2007,4.63
+b'Vietnam',2015,4.667300000000001
+b'Wales',2015,4.428400000000001
+b'Western Pacific Region (WHO)',2015,4.428400000000001
+b'World',2015,6.324400000000002
+b'World',2014,6.4
+b'World',2006,6.11
+b'World',2007,5.97
+b'World',2010,6.29
+b'World',2008,6.06
+b'World',2011,6.25
+b'World',2005,5.95
+b'World',2002,5.74
+b'World',2012,6.21
+b'World',2004,5.88
+b'World',2003,5.77
+b'World',2013,6.32
+b'World',2009,6.45
+b'Yemen',2008,5.76
+b'Yemen',2005,5.21
+b'Yemen',2013,4.96
+b'Yemen',2006,5.53
+b'Yemen',2012,5.2
+b'Yemen',2015,5.594100000000001
+b'Yemen',2010,5.16
+b'Yemen',2007,5.82
+b'Yemen',2014,4.84
+b'Yemen',2004,5.51
+b'Yemen',2009,5.99
+b'Yemen',2003,5.76
+b'Yemen',2011,4.77
+b'Yemen',2002,4.83
+b'Zambia',2013,4.57
+b'Zambia',2011,3.96
+b'Zambia',2010,3.97
+b'Zambia',2012,4.05
+b'Zambia',2004,5.48
+b'Zambia',2009,5.16
+b'Zambia',2015,4.672000000000005
+b'Zambia',2006,5.58
+b'Zambia',2005,6.33
+b'Zambia',2007,4.58
+b'Zambia',2014,3.83
+b'Zambia',2003,6.0
+b'Zambia',2008,4.47
+b'Zambia',2002,5.89
+b'Zimbabwe',2010,10.48
+b'Zimbabwe',2015,6.016499999999999
+b'Zimbabwe',2014,8.13
+b'Zimbabwe',2011,8.08
+b'Zimbabwe',2013,7.11
+b'Zimbabwe',2012,6.92
